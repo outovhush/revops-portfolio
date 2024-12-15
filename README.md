@@ -3,13 +3,13 @@ Showcasing few examples of my work in sales and revenue operations
 
 Hey there! I'm Andrew 👋
 
-Ever heard of Revenue Operations (RevOps)? It's the rather new word in business, and it's shaking things up a bit. Imagine a superhero team where sales, marketing, and customer service all work together aligned perfectly to make more money. And the infrastructure and automation ensures that work is done in most effective and efficient ways. That's the RevOps product! More and more SMB companies are catching on, realising it's not just a fad but a real thing.
+Ever heard of Revenue Operations (RevOps)? It's shaking things up a bit. Imagine a superhero Go-To-Marlet team where sales, marketing, and customer service all work together aligned perfectly to bring in more revenue. And the infrastructure is robust and up-todate, and the workflow automation ensures that work is done in most efficient way. That's what the RevOps do! More companies, expecially in SMB are catching on, realising it's not just a fad, but a real thing.
 
-So, why am I the right person for RevOps? Well, I've done a bit of everything. I can see the big picture but also know how to get things aligned day-to-day. It's like being able to plan an awesome party and also know how to set up the decorations. I'm good at talking to different teams, understanding what they need, and finding ways to balance their needs and hit the revenue goals.
+So, why am I the right person for RevOps? Well, I've done a quite bit of many things. I can see the big picture for a company strategic pursuits but also know how to get things done and aligned day-to-day. It's like being able to plan an awesome party and also know how to set up the decorations. I'm good at talking to different teams, understanding what they need, and finding ways to balance their needs and hit the revenue goals.
 
-Now, let's talk about data. It's super important in on the operations side of things, but here's the thing – real world data is messy unlike what you see in the Titanic dataset. My job is to clean it up, make sense of it, and turn it into useful information. With the right tools, the CRM well set and customised, we can track everything important, get insights and make better business decisions.
+The data is super important on the operations side of things, but here's the thing – real world data is messy unlike what you see in the Titanic dataset. My job is to clean it up, make sense of it, and turn it into actionable insights. With the right tools, the CRM well set and customised, we can track everything important, get insights and make better business decisions.
 
-Want to see how I've put all this into action? Check out some examples of my work below. It's versatile, here will be a few sections:👇🏼
+Want to see how I've put all this into action? Check out some examples of my work below:👇🏼
 
 * [Business Analysis and BP Engineering](#business-analysis-and-bp-engineering)  
 * [Business and Revenue Modelling](#business-and-revenue-modelling)
@@ -20,27 +20,27 @@ Want to see how I've put all this into action? Check out some examples of my wor
 
 ## Business Analysis and BP Engineering
 
-#### 👉 BPMN example use for Appointment Settings process visualisation
+#### 👉 BPMN for BP visualisation
 
-__Goal:__ Provide a easy-to-read visual representation of the AS process for analysis, documenting and future reference e.g. in the new hire onboarding
+__Goal:__ Provide a easy-to-comprehend visual of the Appointment Setting process for analysis, documentaion, onboarding, etc.
 
 __Skills:__ Business analysis, BPMN 2.0
 
-__Results: [The BPMN top-level diagram for AS process](https://miro.com/app/board/uXjVNiNbKiI=/)__
+__Results: [The BPMN chart for AS process](https://miro.com/app/board/uXjVNiNbKiI=/)__
 
-#### 👉 Planning and designing the updated revenue process
+#### 👉 Plan and design for the revenue process update
 
-__Goal:__ Plan, prepare and document a major update of the revenue process  
+__Goal:__ Plan, prepare and document a major update of the company revenue process  
 
-__Skills:__ Business analysis, process engineering, change and project management, requirement solicitation, revenue and sales KPI
+__Skills:__ Business analysis, process engineering, project management, requirement solicitation, revenue and sales KPI
 
-__Results: [Global design document with example charts (detail redacted)](https://docs.google.com/document/d/1giJFaFxC3llHn1Sc5179GKAzNN8zob2pVR4KSCcrLL4/edit?usp=sharing)__
+__Results: [Design doc with example charts (redacted)](https://docs.google.com/document/d/1giJFaFxC3llHn1Sc5179GKAzNN8zob2pVR4KSCcrLL4/edit?usp=sharing)__
 
 ## Business and Revenue Modelling
 
-#### 👉 One-pager revenue model for the sanity-check and forecasting
+#### 👉 One-pager revenue model
 
-__Goal:__ Give the qualitative reality-check and project annual revenue given the lead channels composition, expected number of leads and the key conversion rates; identify the bottle necks and revenue sensitivities
+__Goal:__ Provide the qualitative sanity-check and annual revenue forecasting going down to top; identify the bottle necks and key sensitivity.
 
 __Skills:__ Business analysis, modelling, revenue and sales metrics, Google sheets
 
@@ -51,9 +51,9 @@ __Results: [The revenue model (redacted)](https://docs.google.com/spreadsheets/d
 
 #### 👉 Ad-hoc analytics focused on the reps' performance and deal lost reasons
 
-Once in a while you can spot an anomaly on the operating dashboards and need a quick dive into the specific area of the revenue flow. Data is clean and the basics tools would do the job fast.
+Once in a while you spot an anomaly on the operating dashboards and need a quick dive into the specific area of the revenue operations. Basics tools are enough to do the job fast.
 
-__Goal:__ Assess the reps performance on the deals that take longer to close; get insights and support the decision making  
+__Goal:__ Assess sales reps performance for the deals that take longer to close; get insights and support the decision making.  
 
 __Skills:__ Sales KPIs, descriptive statistics, pivot tables, data visualisation, analytical thinking
 
@@ -66,9 +66,9 @@ __Results: [the report in pdf](https://github.com/outovhush/revops-data-portfoli
 
 #### 👉 Data quality fast check
 
-Suppose you have to combine manual data entry with a sort of custom data structure that is not fully supported by default in your database. Entry errors become likely. Validations and automated checks are hardly an option at this stage. Once in a while you'd need a reality check to see true extent of errors in the database. Full manual walk of the thousands of records is too expensive.
+Suppose you have to combine manual data entry with a custom data structures that is not natively supported by your system. Entry errors become very likely. Automated validation are hardly an option at this stage. You'd need a fast check to estimate extent of errors in the database, and the full manual inspeciton would be too expensive.
      
-__Goal:__ Provide reliable estimate for the extent of data errors in the customer account database with the limited resources
+__Goal:__ Provide reliable estimate for the extent of data errors in the customer account database.
 
 __Steps:__
 - figure out sample size given the CLT limitations for binomial
