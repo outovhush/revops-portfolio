@@ -3,7 +3,7 @@ Showcasing few examples of my work in sales and revenue operations
 
 Hey there! I'm Andrew 👋
 
-Ever heard of Revenue Operations (RevOps)? It's shaking things up a bit. Imagine a superhero Go-To-Marlet team where sales, marketing, and customer service all work together aligned perfectly to bring in more revenue. And the infrastructure is robust and up-todate, and the workflow automation ensures that work is done in most efficient way. That's what the RevOps do! More companies, expecially in SMB are catching on, realising it's not just a fad, but a real thing.
+Ever heard of Revenue Operations (RevOps)? It's shaking things up a bit. Imagine a superhero Go-To-Market team where sales, marketing, and customer service all work together aligned perfectly to bring in more revenue. And the infrastructure is robust and up-to-date, and the workflow automation ensures that work is done in most efficient way. That's what the RevOps does! More companies, especially in SMB are catching on, realising it's not just a fad, but a real thing.
 
 So, why am I the right person for RevOps? Well, I've done a quite bit of many things. I can see the big picture for a company strategic pursuits but also know how to get things done and aligned day-to-day. It's like being able to plan an awesome party and also know how to set up the decorations. I'm good at talking to different teams, understanding what they need, and finding ways to balance their needs and hit the revenue goals.
 
@@ -22,7 +22,7 @@ Want to see how I've put all this into action? Check out some examples of my wor
 
 #### 👉 BPMN for BP visualisation
 
-__Goal:__ Provide a easy-to-comprehend visual of the Appointment Setting process for analysis, documentaion, onboarding, etc.
+__Goal:__ Provide a easy-to-comprehend visual of the Appointment Setting process for analysis, documentation, onboarding, etc.
 
 __Skills:__ Business analysis, BPMN 2.0
 
@@ -59,14 +59,14 @@ __Skills:__ Sales KPIs, descriptive statistics, pivot tables, data visualisation
 
 __Tech:__ Hubspot, Google sheets
 
-__Results: [the report in pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon.pdf)__
+__Results: [pdf report](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon.pdf)__
 
 
 ## Data analysis and data hygiene
 
-#### 👉 Data quality fast check
+#### 👉 Data quality check
 
-Suppose you have to combine manual data entry with a custom data structures that is not natively supported by your system. Entry errors become very likely. Automated validation are hardly an option at this stage. You'd need a fast check to estimate extent of errors in the database, and the full manual inspeciton would be too expensive.
+Suppose you have to combine manual data entry with a custom data structures that is not natively supported by your system. Entry errors become very likely. Automated validation are hardly an option at this stage. You'd need a fast check to estimate extent of errors in the database, and the full manual inspection would be too expensive.
      
 __Goal:__ Provide reliable estimate for the extent of data errors in the customer account database.
 
@@ -79,7 +79,7 @@ __Steps:__
 
 __Skills:__ Statistics (Binomial distribution, CLT), analytical thinking, Google sheets
 
-__Results: [Google sheets report with the assessment](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
+__Results: [Google Sheet report](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
 
 #### 👉 CRM deal dataset exploration
 
@@ -89,19 +89,19 @@ __Skills:__ Data cleaning, data exploration, Pearson correlation, data visualisa
 
 __Tech:__ Python, Pandas, Matplotlib, Seaborn
 
-__Code: [Example notebook_Deal dataset exploration.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_Deal%20dataset%20exploration.ipynb)__
+__Code: [Example notebook](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_Deal%20dataset%20exploration.ipynb)__
 
 __Results:__ Few essential business metrics were visualised; the analysis revealed that expected correlations were not held for all lead generation channels. Major inconsistencies in the data were identified    
 
-#### 👉 Critical data errors visualisation in CRM data
+#### 👉 Visualised data errors in the account db (CRM data)
 
-__Goal:__ Visualise error in the deal datapoint that is critical for correct deal stat; make it easy for further manual checks and corrections  
+__Goal:__ Visualise inconsistencies in the account data that are critical for proper revenue and deal reporting; enable further manual checks and corrections
 
 __Skills:__ Data cleaning, data analysis, data visualisation
 
 __Tech:__ Python, Pandas, Matplotlib
 
-__Code: [Example notebook_check deals source.ipynb](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_check%20deals%20source.ipynb)__
+__Code: [Example notebook](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_check%20deals%20source.ipynb)__
 
 __Results: [image with clickable links in a standalone pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)__
 
