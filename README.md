@@ -20,7 +20,7 @@ Want to see how I've put all this into action? Check out some examples of my wor
 
 ## Business Analysis and BP Engineering
 
-#### 👉 BPMN for BP visualisation
+#### 👉 BPMN chart for business process visualisation
 
 __Goal:__ Provide a easy-to-comprehend visual of the Appointment Setting process for analysis, documentation, onboarding, etc.
 
@@ -51,7 +51,7 @@ __Results: [The revenue model (redacted)](https://docs.google.com/spreadsheets/d
 
 #### 👉 Ad-hoc analytics focused on the reps' performance and deal lost reasons
 
-Once in a while you spot an anomaly on the operating dashboards and need a quick dive into the specific area of the revenue operations. Basics tools are enough to do the job fast.
+Once in a while you spot an anomaly on the operating dashboards and need a quick dive into the specific area of the revenue operations. Basics tools are enough to do the job.
 
 __Goal:__ Assess sales reps performance for the deals that take longer to close; get insights and support the decision making.  
 
@@ -59,7 +59,7 @@ __Skills:__ Sales KPIs, descriptive statistics, pivot tables, data visualisation
 
 __Tech:__ Hubspot, Google sheets
 
-__Results: [pdf report](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon.pdf)__
+__Results: [pdf report](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon_upd.pdf)__
 
 
 ## Data analysis and data hygiene
