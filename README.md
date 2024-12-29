@@ -13,7 +13,7 @@ Want to see how I've put all this into action? Check out some examples of my wor
 
 * [Business Analysis and BP Engineering](#business-analysis-and-bp-engineering)  
 * [Business and Revenue Modelling](#business-and-revenue-modelling)
-* [Operational reporting and BI](#operational-reporting-and-bi)
+* [Reporting and Business intelligence](#operational-reporting-and-bi)
 * [Data analysis and data hygiene](#data-analysis-and-data-hygiene) 
 
 <br>Thank you for reading;)</br>
@@ -22,32 +22,33 @@ Want to see how I've put all this into action? Check out some examples of my wor
 
 #### 👉 BPMN chart for business process visualisation
 
-__Goal:__ Provide a easy-to-comprehend visual of the Appointment Setting process for analysis, documentation, onboarding, etc.
+__Goal:__ Provide a easy-to-read visual of the Appointment Setting workflow for better process analysis, improvement, documenting, and onboarding new reps.
 
 __Skills:__ Business analysis, BPMN 2.0
 
 __Results: [The BPMN chart for AS process](https://miro.com/app/board/uXjVNiNbKiI=/)__
 
-#### 👉 Plan and design for the revenue process update
+#### 👉 Design and implement major update for the company revenue process
 
-__Goal:__ Plan, prepare and document a major update of the company revenue process  
+__Goal:__ Plan, document and deploy two new pipelines in CRM, the Appointment Setting and the Account Execution pipeline, integrating all discrete lead sources and mirroring the agreed Go-To-Market process; infuse max automation to handle low-level data entry, integration and notification tasks      
 
-__Skills:__ Business analysis, process engineering, project management, requirement solicitation, revenue and sales KPI
+__Skills:__ Business analysis, process engineering, project management, requirement solicitation, HubSpot, process automation, revenue and sales KPI
 
-__Results: [Design doc with example charts (redacted)](https://docs.google.com/document/d/1giJFaFxC3llHn1Sc5179GKAzNN8zob2pVR4KSCcrLL4/edit?usp=sharing)__
+__Results:__ All lead sources merged in the single Apoointment Setting pipeline that in turn brough new deals into the Account Execution pipe, letting AS and AE teams do their parts in the most effective way. Visibility increased, reporting went live, conversions and deal win rates grew x2.
+__[Design doc with key examples ](https://docs.google.com/document/d/1giJFaFxC3llHn1Sc5179GKAzNN8zob2pVR4KSCcrLL4/edit?usp=sharing)__       
 
 ## Business and Revenue Modelling
 
-#### 👉 One-pager revenue model
+#### 👉 One-pager quick revenue model
 
-__Goal:__ Provide the qualitative sanity-check and annual revenue forecasting going down to top; identify the bottle necks and key sensitivity.
+__Goal:__ Provide a quick reality-check of growth expectations together with grounded annual revenue forecasts for a scale-up business; identify the bottle necks and key sensitivities.
 
-__Skills:__ Business analysis, modelling, revenue and sales metrics, Google sheets
+__Skills:__ Business analysis, business modelling, revenue and sales metrics, Google sheets
 
 __Results: [The revenue model (redacted)](https://docs.google.com/spreadsheets/d/1YiU6LmTOVAg8TatVKFloPJm_9UbvCY93DYsBcNjTBmE/edit?gid=748648396#gid=748648396)__
    
 
-## Operational reporting and BI
+## Reporting and Business intelligence (BI)
 
 #### 👉 Ad-hoc analytics focused on the reps' performance and deal lost reasons
 
@@ -64,11 +65,11 @@ __Results: [pdf report](https://github.com/outovhush/revops-data-portfolio/blob/
 
 ## Data analysis and data hygiene
 
-#### 👉 Data quality check
+#### 👉 Data quality quick check
 
-Suppose you have to combine manual data entry with a custom data structures that is not natively supported by your system. Entry errors become very likely. Automated validation are hardly an option at this stage. You'd need a fast check to estimate extent of errors in the database, and the full manual inspection would be too expensive.
+Suppose you have to combine manual data entry with a custom data structures that is not natively supported by your system. Entry errors become likely. Automated validation are hardly an option at this stage. You'd want a fast check to estimate extent of errors in the database.
      
-__Goal:__ Provide reliable estimate for the extent of data errors in the customer account database.
+__Goal:__ Provide statistically significant estimate for the extent of data errors in the customer account database.
 
 __Steps:__
 - figure out sample size given the CLT limitations for binomial
