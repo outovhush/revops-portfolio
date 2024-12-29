@@ -34,8 +34,8 @@ __Goal:__ Plan, document and deploy two new pipelines in CRM, the Appointment Se
 
 __Skills:__ Business analysis, process engineering, project management, requirement solicitation, HubSpot, process automation, revenue and sales KPI
 
-__Results:__ All lead sources merged in the single Apoointment Setting pipeline that in turn brough new deals into the Account Execution pipe, letting AS and AE teams do their parts in the most effective way. Visibility increased, reporting went live, conversions and deal win rates grew x2.
-__[Design doc with key examples ](https://docs.google.com/document/d/1giJFaFxC3llHn1Sc5179GKAzNN8zob2pVR4KSCcrLL4/edit?usp=sharing)__       
+__Results:__ All lead sources merged in the single Appointment Setting pipeline that in turn delivered new deals into the Account Execution pipe, allowing AS and AE teams do their parts in the most effective way. Visibility increased, reporting went live, conversions and deal win rates grew x2.  
+__[Design doc with some deliverables ](https://docs.google.com/document/d/1giJFaFxC3llHn1Sc5179GKAzNN8zob2pVR4KSCcrLL4/edit?usp=sharing)__       
 
 ## Business and Revenue Modelling
 
