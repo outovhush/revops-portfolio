@@ -62,6 +62,18 @@ __Tech:__ Hubspot, Google sheets
 
 __Results: [pdf report](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon_upd.pdf)__
 
+#### ✴️ Reporting with the tools outside CRM
+
+The native reporting toos of your CRM may be too restrictive at times. Put together a script to pull data via API, do the data transform and the fast drawing.
+   
+__Goal:__ Check historical Appoinment Setting pipeline performance, estimate conversion rates, present data in an easy-to-read visual.  
+
+__Skills:__ Lead generation metrics and KPI's, data visualisation, analytical thinking
+
+__Tech:__ Hubspot API, Python, Pandas, Matplotlib, Seaborn
+
+__Results: [___](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon_upd.pdf)__
+
 
 ## Data analysis and data hygiene
 
