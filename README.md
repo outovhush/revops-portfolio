@@ -13,7 +13,7 @@ Want to see how I've put all this into action? Check out some examples of my wor
 
 * [Business Analysis and BP Engineering](#business-analysis-and-bp-engineering)  
 * [Business and Revenue Modelling](#business-and-revenue-modelling)
-* [Reporting and Business intelligence](#operational-reporting-and-bi)
+* [Reporting and Business intelligence](#reporting-and-business-intelligence)
 * [Data analysis and data hygiene](#data-analysis-and-data-hygiene) 
 
 <br>Thank you for reading;)</br>
@@ -48,7 +48,7 @@ __Skills:__ Business analysis, business modelling, revenue and sales metrics, Go
 __Results: [The revenue model (redacted)](https://docs.google.com/spreadsheets/d/1YiU6LmTOVAg8TatVKFloPJm_9UbvCY93DYsBcNjTBmE/edit?gid=748648396#gid=748648396)__
    
 
-## Reporting and Business intelligence (BI)
+## Reporting and Business Intelligence
 
 #### 👉 Ad-hoc analytics focused on the reps' performance and deal lost reasons
 
@@ -72,7 +72,7 @@ __Skills:__ Lead generation metrics and KPI's, data visualisation, analytical th
 
 __Tech:__ Hubspot API, Python, Pandas, Matplotlib, Seaborn
 
-__Results: [___](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon_upd.pdf)__
+__Results: [Appoinment Setting pipe historical stat](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
 
 ## Data analysis and data hygiene
