@@ -28,24 +28,23 @@ __Skills:__ Business analysis, BPMN 2.0
 
 __Results: [The BPMN chart for AS process](https://miro.com/app/board/uXjVNiNbKiI=/)__
 
-#### 👉 Design and implement major update for the company revenue process
+#### 👉 Hi-level view of GTM process
 
-__Goal:__ Plan, document and deploy two new pipelines in CRM, the Appointment Setting and the Account Execution pipeline, integrating all discrete lead sources and mirroring the agreed Go-To-Market process; infuse max automation to handle low-level data entry, integration and notification tasks      
+__Goal:__ Give stakeholders a high-level overview of the proposed B2B go-to-market process, from marketing and lead generation through customer success. Highlight the main stages, key activities, and handover points.     
 
-__Skills:__ Business analysis, process engineering, project management, requirement solicitation, HubSpot, process automation, revenue and sales KPI
+__Skills:__ B2B sales process, business analysis, requirements gathering, process design, and visualization.
 
-__Results:__ All lead sources merged in the single Appointment Setting pipeline that in turn delivered new deals into the Account Execution pipe, allowing AS and AE teams do their parts in the most effective way. Visibility increased, reporting went live, conversions and deal win rates grew x2.  
-__[Design doc with some deliverables ](https://docs.google.com/document/d/1giJFaFxC3llHn1Sc5179GKAzNN8zob2pVR4KSCcrLL4/edit?usp=sharing)__       
+__Results:__ [E2E Process map](https://github.com/outovhush/revops-data-portfolio/blob/main/GTM_process_hi-level_map.jpg)       
 
 ## Business and Revenue Modelling
 
 #### 👉 One-pager quick revenue model
 
-__Goal:__ Provide a quick reality-check of growth expectations together with grounded annual revenue forecasts for a scale-up business; identify the bottle necks and key sensitivities.
+__Goal:__ Provide a quick reality-check of growth expectations together with grounded annual revenue forecasts for a scale-up business; identify key bottle necks and sensitivities.
 
 __Skills:__ Business analysis, business modelling, revenue and sales metrics, Google sheets
 
-__Results: [The revenue model (redacted)](https://docs.google.com/spreadsheets/d/1YiU6LmTOVAg8TatVKFloPJm_9UbvCY93DYsBcNjTBmE/edit?gid=748648396#gid=748648396)__
+__Results: [The revenue model](https://docs.google.com/spreadsheets/d/1YiU6LmTOVAg8TatVKFloPJm_9UbvCY93DYsBcNjTBmE/edit?gid=748648396#gid=748648396)__
    
 
 ## Reporting and Business Intelligence
