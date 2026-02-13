@@ -9,16 +9,15 @@ So, why am I the right person for RevOps? Well, I've done a quite bit of many th
 
 The data is super important on the operations side of things, but here's the thing – real world data is messy unlike what you see in the Titanic dataset. My job is to clean it up, make sense of it, and turn it into actionable insights. With the right tools, the CRM well set and customised, we can track everything important, get insights and make better business decisions.
 
-Want to see how I've put all this into action? Check out some examples of my work below:👇🏼
+Want to see all this in action? Check out some examples of my work below:👇🏼
 
-* [Business Analysis and BP Engineering](#business-analysis-and-bp-engineering)  
+* [Business Analysis and Process Modelling](#business-analysis-and-process-modelling)  
 * [Business and Revenue Modelling](#business-and-revenue-modelling)
 * [Reporting and Business intelligence](#reporting-and-business-intelligence)
 * [Data analysis and data hygiene](#data-analysis-and-data-hygiene) 
 
-<br>Thank you for reading;)</br>
 
-## Business Analysis and BP Engineering
+## Business Analysis and Process Modelling
 
 #### 👉 Concept design for end-2-end B2B GTM process
 
