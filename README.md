@@ -20,21 +20,19 @@ Want to see how I've put all this into action? Check out some examples of my wor
 
 ## Business Analysis and BP Engineering
 
-#### 👉 BPMN chart for business process visualisation
-
-__Goal:__ Provide a easy-to-read visual of the Appointment Setting workflow for better process analysis, improvement, documenting, and onboarding new reps.
-
-__Skills:__ Business analysis, BPMN 2.0
-
-__Results: [The BPMN chart for AS process](https://miro.com/app/board/uXjVNiNbKiI=/)__
-
-#### 👉 Hi-level view of GTM process
+#### 👉 Concept design for end-2-end B2B GTM process
 
 __Goal:__ Give stakeholders a high-level overview of the proposed B2B go-to-market process, from marketing and lead generation through customer success. Highlight the main stages, key activities, and handover points.     
 
-__Skills:__ B2B sales process, business analysis, requirements gathering, process design, and visualization.
+__Skills:__ B2B sales processes, business analysis, requirements gathering, process design, and visualization.
 
-__Results:__ [E2E Process map](https://github.com/outovhush/revops-data-portfolio/blob/main/GTM_process_hi-level_map.jpg)       
+__Results: [E2E Process map](https://github.com/outovhush/revops-data-portfolio/blob/main/GTM_process_hi-level_map.jpg)__       
+
+#### 👉 Design of field event lead gen process
+
+__Goal:__ Share a hi-level diagram of the proposed field event process with stakeholders for approval. Include a detailed process map to support implementation and team onboarding. 
+
+__Results: [Field lead gen at hi-level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg), and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
 
 ## Business and Revenue Modelling
 
