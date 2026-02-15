@@ -35,13 +35,13 @@ __Results: [Field lead gen at hi-level](https://github.com/outovhush/revops-data
 
 ## Business and Revenue Modelling
 
-#### 👉 One-pager quick revenue model
+#### 👉 SaaS Revenue & Customer Teams model
 
-__Goal:__ Provide a quick reality-check of growth expectations together with grounded annual revenue forecasts for a scale-up business; identify key bottle necks and sensitivities.
+__Goal:__ Identify bottlenecks, validate unit economics, and create a data-driven hiring and compensation roadmap that scales sales and CS together with the revenue growth.
 
-__Skills:__ Business analysis, business modelling, revenue and sales metrics, Google sheets
+__Skills:__ Business and financial modelling, SaaS metrics, Excel/Google Sheets
 
-__Results: [The revenue model](https://docs.google.com/spreadsheets/d/1YiU6LmTOVAg8TatVKFloPJm_9UbvCY93DYsBcNjTBmE/edit?gid=748648396#gid=748648396)__
+__Results: [Model summary with recommendations](revenue_modelling/README.md)__
    
 
 ## Reporting and Business Intelligence
@@ -50,7 +50,7 @@ __Results: [The revenue model](https://docs.google.com/spreadsheets/d/1YiU6LmTOV
 
 Once in a while you spot an anomaly on the operating dashboards and need a quick dive into the specific area of the revenue operations. Basics tools are enough to do the job.
 
-__Goal:__ Assess sales reps performance for the deals that take longer to close; get insights and support the decision making.  
+__Goal:__ Assess sales reps performance for the deals that take longer to close; get insights and support the decision making.
 
 __Skills:__ Sales KPIs, descriptive statistics, pivot tables, data visualisation, analytical thinking
 
@@ -58,15 +58,11 @@ __Tech:__ Hubspot, Google sheets
 
 __Results: [pdf report](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon_upd.pdf)__
 
-#### ✴️ Additional reporting outside CRM tools
-
-The native reporting toos of your CRM may be a bit limited at times. Put together a script to pull CRM data via API, do the data transform and deliver relevant visulization.
+#### 👉 Ad-hoc reporting
    
-__Goal:__ Check historical lead gen channel performance from MQL to SQL, estimate conversion rates, present data in an concise easy-to-read visual.  
+__Goal:__ Review historical lead gen channels performance in terms of MQL and SQL numbers, and estimate conversion rates. Since the CRM's built-in reporting tools are limited, I pulled the data through the API, cleaned and transformed it, and created visualizations.
 
-__Skills:__ Lead generation metrics and KPI's, data visualisation, analytical thinking
-
-__Tech:__ Hubspot API, Python, Pandas, Matplotlib, Seaborn
+__Skills:__ Lead gen KPI's, data analysis and visualisation, Hubspot API, Python/Pandas
 
 __Results: [Historical performance of the lead generation channels](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
