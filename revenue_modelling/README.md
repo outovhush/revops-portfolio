@@ -1,5 +1,3 @@
-Model Summary:
-
 __Executive Summary__  
 This bottom-up model projects a SaaS business with a $350 MRR and a 6.25-month customer lifetime. While the partial LTV/CAC ratio of $12.74 appears strong, it only accounts for sales compensation and excludes marketing and lead gen spend. The model highlights a critical retention risk with an 84% NRR, driven by high monthly churn and zero expansion. Sales efficiency improves significantly by Month 12, with AE compensation costs stabilizing at 10% of revenue. Talent acquisition depends on off-shore remote hiring with low base salaries and effective tax rates which may present a bottleneck for engaging skilled customer-facing talent. 
 
@@ -24,12 +22,12 @@ Full CAC Modeling: Evaluate and incorporate Marketing and Lead Gen costs to dete
 
 AE Compensation & Scaling: AE variable shifts to 45% of AE OTE only by the M12, increase commissions early to incentivize growth. AE capacity remains over-extended at 109%. Accelerate AE hiring in Q1 to address this, avoding burn-out and  opportunity drops.
 
-![Team operational metrics](revenue_modelling/team_operational_metrics.jpg)
+![Team operational metrics](team_operational_metrics.jpg)
 
-![AE capacity check](revenue_modelling/ae_capacity_check.jpg)
+![AE capacity check](ae_capacity_check.jpg)
 
 CS Compensation & Scaling: Hire CS2 earlier in Q1 insted of Q3 to address the utilization spike of 123% and allow more resources for CS churn-fighting initiatives.
 
-![CS capacity check](revenue_modelling/cs_capacity_check.jpg)
+![CS capacity check](cs_capacity_check.jpg)
 
 Introduce Variable Pay: Currently, CS is 100% fixed salary. This provides no incentive for retention or expansion. The Retention Bonus can tie to NRR (Net Revenue Retention) and a Commision for Expansion (upsells). Since NRR is low at 84%, a 5-10% variable component tied to reducing churn could significantly impact the bottom line.
