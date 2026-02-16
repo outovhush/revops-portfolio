@@ -1,23 +1,21 @@
 # revops-data-portfolio
-Showcasing few examples of my work in sales and revenue operations
 
-Hey there! I'm Andrew 👋
+Hey there! I'm Andrew👋
 
-Ever heard of Revenue Operations (RevOps)? It's shaking things up a bit. Imagine a superhero Go-To-Market team where sales, marketing, and customer service all work together aligned perfectly to bring in more revenue. And the infrastructure is robust and up-to-date, and the workflow automation ensures that work is done in most efficient way. That's what the RevOps does! More companies, especially in SMB are catching on, realising it's not just a fad, but a real thing.
+Revenue Operations sits at the critical intersection of commercial strategy, business analysis, data, and technical expertise. It goes beyond managing SalesForce or HubSpot instance; it demands more holistic approach to driving measurable growth through process efficiency, solid infrastructure and cross-functional project and stakeholder management.
 
-So, why am I the right person for RevOps? Well, I've done a quite bit of many things. I can see the big picture for a company strategic pursuits but also know how to get things done and aligned day-to-day. It's like being able to plan an awesome party and also know how to set up the decorations. I'm good at talking to different teams, understanding what they need, and finding ways to balance their needs and hit the revenue goals.
+This portfolio shows my ability to drive real impact at every stage of the revenue process. It features specific tasks and projects across the full range of Revenue and Sales Operations that contributed to the broader business goals and strategic initiatives.
 
-The data is super important on the operations side of things, but here's the thing – real world data is messy unlike what you see in the Titanic dataset. My job is to clean it up, make sense of it, and turn it into actionable insights. With the right tools, the CRM well set and customised, we can track everything important, get insights and make better business decisions.
+Key Highlights:👇🏼
 
-Want to see all this in action? Check out some examples of my work below:👇🏼
-
-* [Business Analysis and Process Modelling](#business-analysis-and-process-modelling)  
-* [Business and Revenue Modelling](#business-and-revenue-modelling)
+* [Business Analysis and Process Modeling](#business-analysis-and-process-modeling)  
+* [Revenue Modeling and Capacity Planning](#revenue-modeling-and-capacity-planning)
 * [Reporting and Business intelligence](#reporting-and-business-intelligence)
 * [Data analysis and data hygiene](#data-analysis-and-data-hygiene) 
 
+Thank you for reading! I hope these examples demonstrate the value I can bring on your team.
 
-## Business Analysis and Process Modelling
+## Business Analysis and Process Modeling
 
 #### 👉 Concept design for end-2-end B2B GTM process
 
@@ -33,13 +31,13 @@ __Goal:__ Share a hi-level diagram of the proposed field event process with stak
 
 __Results: [Field lead gen at hi-level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg), and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
 
-## Business and Revenue Modelling
+## Revenue Modeling and Capacity Planning
 
 #### 👉 SaaS Revenue & Customer Teams model
 
 __Goal:__ Identify bottlenecks, validate unit economics, and create a data-driven hiring and compensation roadmap that scales sales and CS together with the revenue growth.
 
-__Skills:__ Business and financial modelling, SaaS metrics, Excel/Google Sheets
+__Skills:__ Business and financial modeling, SaaS metrics, Compensation planning, Excel/Google Sheets
 
 __Results: [Model summary with recommendations](revenue_modelling/README.md)__
    
@@ -48,11 +46,11 @@ __Results: [Model summary with recommendations](revenue_modelling/README.md)__
 
 #### 👉 Ad-hoc analytics focused on the reps' performance and deal lost reasons
 
-Once in a while you spot an anomaly on the operating dashboards and need a quick dive into the specific area of the revenue operations. Basics tools are enough to do the job.
+Once in a while you may spot an anomaly on the operating dashboards and need a quick dive into the specific section of your data.
 
-__Goal:__ Assess sales reps performance for the deals that take longer to close; get insights and support the decision making.
+__Goal:__ Evaluate AE reps' performance focusing on won/lost and deal lost reason analysis; present insights and recommendations to support decision making.
 
-__Skills:__ Sales KPIs, descriptive statistics, pivot tables, data visualisation, analytical thinking
+__Skills:__ Sales KPI's, descriptive statistics, data visualisation, analytical thinking
 
 __Tech:__ Hubspot, Google sheets
 
@@ -60,9 +58,9 @@ __Results: [pdf report](https://github.com/outovhush/revops-data-portfolio/blob/
 
 #### 👉 Ad-hoc reporting
    
-__Goal:__ Review historical lead gen channels performance in terms of MQL and SQL numbers, and estimate conversion rates. Since the CRM's built-in reporting tools are limited, I pulled the data through the API, cleaned and transformed it, and created visualizations.
+__Goal:__ Evaluate and benchmark historical leadgen channel performance in terms of MQL, SQL throughput and conversion rates. Since the CRM's built-in reporting tools are limited, pull data through the API, clean and transform it to build custom visualization.
 
-__Skills:__ Lead gen KPI's, data analysis and visualisation, Hubspot API, Python/Pandas
+__Skills:__ Leadgen KPI's, data analysis and visualisation, HubSpot API, Python/Pandas
 
 __Results: [Historical performance of the lead generation channels](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
@@ -71,18 +69,17 @@ __Results: [Historical performance of the lead generation channels](https://gith
 
 #### 👉 Data quality quick check
 
-Suppose you have to combine manual data entry with a custom data structures that is not natively supported by your system. Entry errors become likely. Automated validation are hardly an option at this stage. You'd want a fast check to estimate extent of errors in the database.
+Suppose you combine manual data entry with a custom data model that is not fully supported by your CRM. Entry errors become likely, but automated entry validation is not an option at this stage. You'd want a fast check to estimate extent of errors in the database.
      
-__Goal:__ Provide statistically significant estimate for the extent of data errors in the customer account database.
+__Goal:__ Provide significant estimate for the extent of data errors in the customer account CRM database.
 
 __Steps:__
-- figure out sample size given the CLT limitations for binomial
-- set up the observations
-- get the random sample
+- figure out sample size given CLT limitations for binomial
+- set up the observations and get the random sample
 - check the sample manually collecting observations
 - calculate sample means and confidence intervals
 
-__Skills:__ Statistics (Binomial distribution, CLT), analytical thinking, Google sheets
+__Skills:__ Statistics, analytical thinking, Google sheets
 
 __Results: [Google Sheet report](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
 
