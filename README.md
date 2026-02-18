@@ -25,7 +25,7 @@ __Skills:__ B2B sales processes, business analysis, requirements gathering, proc
 
 __Results: [E2E Process map](https://github.com/outovhush/revops-data-portfolio/blob/main/GTM_process_hi-level_map.jpg)__       
 
-#### 👉 Design of field event lead gen process
+#### 👉 Design of field event leadgen process
 
 __Goal:__ Share a hi-level diagram of the proposed field event process with stakeholders for approval. Include a detailed process map to support implementation and team onboarding. 
 
@@ -33,7 +33,7 @@ __Results: [Field lead gen at hi-level](https://github.com/outovhush/revops-data
 
 ## Revenue Modeling and Capacity Planning
 
-#### 👉 SaaS Revenue & Customer Teams model
+#### 👉 SaaS Revenue & Team compensation model
 
 __Goal:__ Identify bottlenecks, validate unit economics, and create a data-driven hiring and compensation roadmap that scales sales and CS together with the revenue growth.
 
@@ -50,7 +50,7 @@ Once in a while you may spot an anomaly on the operating dashboards and need a q
 
 __Goal:__ Evaluate AE reps' performance focusing on won/lost and deal lost reason analysis; present insights and recommendations to support decision making.
 
-__Skills:__ Sales KPI's, descriptive statistics, data visualisation, analytical thinking
+__Skills:__ Sales KPI's, descriptive statistics, data visualization, analytical thinking
 
 __Tech:__ Hubspot, Google sheets
 
@@ -60,7 +60,7 @@ __Results: [pdf report](https://github.com/outovhush/revops-data-portfolio/blob/
    
 __Goal:__ Evaluate and benchmark historical leadgen channel performance in terms of MQL, SQL throughput and conversion rates. Since the CRM's built-in reporting tools are limited, pull data through the API, clean and transform it to build custom visualization.
 
-__Skills:__ Leadgen KPI's, data analysis and visualisation, HubSpot API, Python/Pandas
+__Skills:__ Leadgen KPI's, data analysis and visualization, HubSpot API, Python/Pandas
 
 __Results: [Historical performance of the lead generation channels](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
@@ -93,13 +93,13 @@ __Tech:__ Python, Pandas, Matplotlib, Seaborn
 
 __Code: [Example notebook](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_Deal%20dataset%20exploration.ipynb)__
 
-__Results:__ Few essential business metrics were visualised; the analysis revealed that expected correlations were not held for all lead generation channels. Major inconsistencies in the data were identified    
+__Results:__ Few essential business metrics were visualized; the analysis revealed that expected correlations were not held for all lead generation channels. Major inconsistencies in the data were identified    
 
-#### 👉 Visualised data errors in the account db (CRM data)
+#### 👉 Visualized data errors in the account db (CRM data)
 
-__Goal:__ Visualise inconsistencies in the account data that are critical for proper revenue and deal reporting; enable further manual checks and corrections
+__Goal:__ Visualize inconsistencies in the account data that are critical for proper revenue and deal reporting; enable further manual checks and corrections
 
-__Skills:__ Data cleaning, data analysis, data visualisation
+__Skills:__ Data cleaning, data analysis, data visualization
 
 __Tech:__ Python, Pandas, Matplotlib
 
