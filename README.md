@@ -10,8 +10,8 @@ Key Highlights:👇🏼
 
 * [Business Analysis and Process Modeling](#business-analysis-and-process-modeling)  
 * [Revenue Modeling and Capacity Planning](#revenue-modeling-and-capacity-planning)
-* [Reporting and Business intelligence](#reporting-and-business-intelligence)
-* [Data analysis and data hygiene](#data-analysis-and-data-hygiene) 
+* [Data Analysis, Reporting and BI](#data-analysis-reporting-and-bi)
+* [Data Quality and Hygiene](#data-quality-and-hygiene) 
 
 Thank you for reading! I hope these examples demonstrate the value I can bring on your team.
 
@@ -42,19 +42,19 @@ __Skills:__ Business and financial modeling, SaaS metrics, Compensation planning
 __Results: [Model summary with recommendations](revenue_modelling/README.md)__
    
 
-## Reporting and Business Intelligence
+## Data Analysis, Reporting and BI
 
-#### 👉 Ad-hoc analytics focused on the reps' performance and deal lost reasons
+#### 👉 Ad-hoc pipeline analytics focused on the team performance and the lost deals
 
-Once in a while you may spot an anomaly on the operating dashboards and need a quick dive into the specific section of your data.
+Sometimes oeprational dahsboards do not provide sufficient detail and you need a quick dive into the specific section of your data.
 
-__Goal:__ Evaluate AE reps' performance focusing on won/lost and deal lost reason analysis; present insights and recommendations to support decision making.
+__Goal:__ To evaluate sales performance and pipeline health following major operational shift, identifying growth drivers, pinpointing weak spots, and providing recommendations.
 
 __Skills:__ Sales KPI's, descriptive statistics, data visualization, analytical thinking
 
-__Tech:__ Hubspot, Google sheets
+__Tech:__ HubSpot, Google Sheets
 
-__Results: [pdf report](https://github.com/outovhush/revops-data-portfolio/blob/main/Ad-hoc%20reports_AE%20WR%20lost%20deals%20quickstat_anon_upd.pdf)__
+__Results: [The report](AE_adhoc_data_analysis_GR/README.md)__
 
 #### 👉 Ad-hoc reporting
    
@@ -65,7 +65,7 @@ __Skills:__ Leadgen KPI's, data analysis and visualization, HubSpot API, Python/
 __Results: [Historical performance of the lead generation channels](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
 
-## Data analysis and data hygiene
+## Data Quality and Hygiene
 
 #### 👉 Data quality quick check
 
@@ -87,7 +87,7 @@ __Results: [Google Sheet report](https://docs.google.com/spreadsheets/d/107Ku2k5
 
 __Goal:__  Explore raw CRM annual deal dataset, check some business metrics, identify inconsistencies and errors in the data
 
-__Skills:__ Data cleaning, data exploration, Pearson correlation, data visualisation
+__Skills:__ Data cleaning, data exploration, Pearson correlation, data visualization
 
 __Tech:__ Python, Pandas, Matplotlib, Seaborn
 
