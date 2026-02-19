@@ -65,7 +65,7 @@ Implement team SLA for number of sales touches e.g. focusing on deals open longe
 ### Lost reasons behind Other:
 There are total 16 deals closed lost with Other as the main reason and free text under the Lost Reason detail; after normalizing and and grouping:
 
-![Lost reasons behind Other](lost_reasons_behind_other_1.jpeg)  
+![Lost reasons behind Other](lost_reasons_behind_other.jpg)  
 
 #### Recommendations:
 _'Not using Upwork', 'Not ready to buy now', 'Lead ownership error',_ and _'Not using automation'_ be added as preset reasons for AE Closed Lost Reason dropdown property.
