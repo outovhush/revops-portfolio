@@ -14,6 +14,7 @@ __Capacity Utilization:__ AEs are at 109% capacity; CS peaks at 123% (M6) before
 
 
 __Recommendations__
+
 Churn Mitigation: The 16% monthly churn is unsustainable. Top priority will be improve the CS team expertise, capacity, and protocols. To raise LTV, we must explore product adjustments for better product-market fit and iterate pricing strategy, adding revenue expansion options for the increased NRR. 
 
 Full CAC Modeling: Evaluate and incorporate Marketing and Leadgen costs per channel to determine the Fully Loaded CAC and ROI.
