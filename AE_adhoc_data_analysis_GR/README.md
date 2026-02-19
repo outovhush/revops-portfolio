@@ -59,13 +59,13 @@ Vlad M & Vlad T both have the most Unresponsive lost, though 4 lost for Vlad M i
 
 AE’s do both sales and onboarding work for the wins, so the number of touches for Won’s would be grossed up for the onboarding touches; this is likely the reason for median Won touches higher than for the Lost.  
 The number of touches for Unresponsive lost deals are highly spread out calling for better alignment and improving the team’s cadences as deal aging increases its probability to go lost.  
-Sviat H may be setting a good pattern to follow in respect of Unresponsive, i.e. with 38 median days to close and min 10 touches to deliver per an Unresponsive lost deal.  
+Sviat H having the smallest fraction of 33% ghosted deals in his pipeline - can set the activity pattern to follow in respect of the ghosted deals with 38 median days to close, and min of 10 sales touches to deliver per an Unresponsive lost deal.  
 #### Recommendations:
 Implement team SLA for number of sales touches e.g. focusing on deals open longer than e.g. 10 days (81% likelihood of getting lost).
 ### Lost reasons behind Other:
 There are total 16 deals closed lost with Other as the main reason and free text under the Lost Reason detail; after normalizing and and grouping:
 
-![Lost reasons behind Other](lost_reasons_behind_other.jpg)  
+![Lost reasons behind Other](lost_reasons_behind_other_1.jpg)  
 
 #### Recommendations:
 _'Not using Upwork', 'Not ready to buy now', 'Lead ownership error',_ and _'Not using automation'_ be added as preset reasons for AE Closed Lost Reason dropdown property.
