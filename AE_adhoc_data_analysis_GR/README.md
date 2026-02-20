@@ -26,8 +26,9 @@ __AE activity & Lost deal analysis:__ AE number of sales touches, Pipeline won/l
 ![Winrates per AE and lead channel](winrates_per_ae_and_lead_channel.jpg)
 #### Median days to close:
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/median_days_to_close.jpg" width=70% height=70%>
-#### Findings:
-Outbound opp’s (26% winrate) look nearly twice harder to win than Inbound (55%), benchmarking well against the known market realities. Won deals get far less time to close than the Lost is also in line with the known benchmarks.
+
+#### Findings:  
+Outbound opp’s (26% winrate) look nearly twice harder to win than Inbound (55%), benchmarking well against the known market realities. Won deals get far less time to close than the Lost is also in line with the known benchmarks.  
 Cohort median sales cycle is 14 days, 6 to Won and 27 for Lost. The likelihood of win for any open deal that ages over 10 days drops to only 19%.  
 Won deal cycles are more consistent across AEs and show less variation. Lost deal cycles are more spread out, likely because the team is gradually moving away from the past habit of closing lost opportunities too late /not closing.  
 The most recent hire, Vlad M, is standing out with short sale cycles, also with the least number of the closed deals.
@@ -38,26 +39,29 @@ Vlad M - a newcomer, with little history available; revisit in a few months to g
 
 ### Lost deal analysis:
 #### New deals (SQL’s) and closed deals over time:
-![New deals (SQL’s) and closed deals over time](New_deals_sqls_and_closed_deals_over_time.jpg).  
+ <img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/New_deals_sqls_and_closed_deals_over_time.jpg" width=70% height=70%>  
 
 The pipeline continues to ramp-up in Jul 24, the closed lost catch-up with SQL (new deals’) numbers with the median of 27 days to close; need to check-back with a few months more of the data to evaluate the sustained rates.
 #### Won/Lost deals and winrate over time:
 
-![Won/Lost deals and winrate over time](Won_lost_deals_and_winrate_over_time.jpg)
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/Won_lost_deals_and_winrate_over_time.jpg" width=70% height=70%>
 
 Lost deals grew in number and in relative terms to the total closed with decrease in pipeline winrate. There is a spike in the closed loss in the last month of Jul 24.
 
-![Lost deal reasons over time](lost_deal_reasons_over_time.jpg)
+#### Lost deal reasons over time:
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/lost_deal_reasons_over_time.jpg" width=70% height=70%>
 
 Unresponsive and Others are the lost reasons accounting for the most of lost deals in June 24 and the bulk of the Jul 24 spike.
 
-![Lost deals reasons per AE](lost_deals_reasons_per_ae.jpg)
+#### Lost deals reasons per AE:
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/lost_deals_reasons_per_ae.jpg" width=70% height=70%>
 
 Sviat H has the least losses due to Unresponsive
 Julia S has only 2 deals lost, too little data
 Vlad M & Vlad T both have the most Unresponsive lost, though 4 lost for Vlad M is a little data.
 
-![Number of touches, median](number_of_touches_median.jpg)
+#### Median number of touches:
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/number_of_touches_median.jpg" width=70% height=70%>
 
 AE’s do both sales and onboarding work for the wins, so the number of touches for Won’s would be grossed up for the onboarding touches; this is likely the reason for median Won touches higher than for the Lost.  
 The number of touches for Unresponsive lost deals are highly spread out calling for better alignment and improving the team’s cadences as deal aging increases its probability to go lost.  
