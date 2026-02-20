@@ -4,11 +4,11 @@ UpworkLeadAssistant.io is the transactional B2B scale-up selling the leadgen too
 ## Executive Summary
 The analysis is based on HubSpot data for a 4 months deal cohort closed between Apr and Jul 22 2024.  
 
-The cohort lead input accounts for 60% inbound, 31% outbound, and 9% other sources combined. This exhibits mature inbound and solid outbound, employing emails and LinkedIn outreach, that - if sustained - can support the scaling ambitions. These four months represent the pipeline ramp-up that continues into stabilizing the pipeline's value in Jul 24 onwards. Data suggests that won deals close much earlier than the lost with a median cycle of 6 days for Won and 27 for Lost; and that likelihood of the win drops to 19% when a deal marks its 10 days. A high share of ghosted opportunities in lost deals probably comes from two main causes: AE team is yet to fully align and develop their skills, and the B2B market is dominated with smaller entities acting in less rational and less consistent ways. 
+The cohort lead input accounts for 60% inbound, 31% outbound, and 9% other sources combined. This exhibits mature inbound and solid outbound, employing emails and LinkedIn outreach, that - if sustained - can support the scaling ambitions. These four months represent the pipeline ramp-up that continues into stabilizing the pipeline's value in Jul 24 onwards. Data suggests that won deals close much faster than the lost with a median cycle of 6 days for Won and 27 for Lost; and that likelihood of the win drops to 19% when a deal marks its 10 days. A high share of ghosted opportunities in lost deals probably comes from two main causes: AE team is yet to fully align and develop their skills, and the market is full of smaller companies (just a few people) acting in less rational and less consistent ways. 
 
 #### Key recommendations:
 - Enable knowledge-sharing by the best performed rep, Julia S
-- Implement team SLA for number of sales touches and time to close focused on the ghosted deals.
+- Implement team SLA for number of sales touches and time to close to focus on the ghosted deals.
 #### Technical recommendations:
 - Flag sales and onboarding touches apart in the data for cleaner activity metrics
 - Add presets in dropdown for deal lost reasons
@@ -49,7 +49,7 @@ The pipeline continues to ramp-up in Jul 24, the closed lost catch-up with SQL (
 Lost deals grew in number and in relative terms to the total closed with decrease in pipeline winrate. There is a spike in the closed loss in the last month of Jul 24.
 
 #### Lost deal reasons over time:
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/lost_deal_reasons_over_time.jpg" width=65% height=65%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/lost_deal_reasons_over_time.jpg" width=67% height=67%>
 
 Unresponsive and Others are the lost reasons accounting for the most of lost deals in June 24 and the bulk of the Jul 24 spike.
 
