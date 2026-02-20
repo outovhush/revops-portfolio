@@ -6,8 +6,6 @@ The analysis is based on HubSpot data for a 4 months deal cohort closed between 
 
 The cohort lead input accounts for 60% inbound, 31% outbound, and 9% other sources combined. This exhibits mature inbound and solid outbound, employing emails and LinkedIn outreach, that - if sustained - can support the scaling ambitions. These four months represent the pipeline ramp-up that continues into stabilizing the pipeline's value in Jul 24 onwards. Data suggests that won deals close much earlier than the lost with a median cycle of 6 days for Won and 27 for Lost; and that likelihood of the win drops to 19% when a deal marks its 10 days. A high share of ghosted opportunities in lost deals probably comes from two main causes: AE team is yet to fully align and develop their skills, and the B2B market is dominated with smaller entities acting in less rational and less consistent ways. 
 
-Many of the lost deals involve prospects ghosting us. This is likely due to the team's developing skills and an immature B2B market where buyers often behave less rational and less s=consistent. 
-
 #### Key recommendations:
 - Enable knowledge-sharing by the best performed rep, Julia S
 - Implement team SLA for number of sales touches and time to close focused on the ghosted deals.
@@ -27,7 +25,7 @@ __AE activity & Lost deal analysis:__ AE number of sales touches, Pipeline won/l
 #### Winrates per AE and lead channel:
 ![Winrates per AE and lead channel](winrates_per_ae_and_lead_channel.jpg)
 #### Median days to close:
-![Median days to close](median_days_to_close.jpg)
+![Median days to close]
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/median_days_to_close.jpg" width=70% height=70%>
 #### Findings:
 Outbound opp’s (26% winrate) look nearly twice harder to win than Inbound (55%), benchmarking well against the known market realities. Won deals get far less time to close than the Lost is also in line with the known benchmarks.
