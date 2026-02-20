@@ -1,13 +1,14 @@
 ## Background
-Transactional B2B scale-up selling the leadgen tool into Upwork sell-side agencies and established freelancers. This quick check-in reviews Account Execution (AE) performance four months in after the major operational shift, as two smaller remote sales teams merged into the unified pipeline to align and adopt consistent AE protocols and governance. Among other things, the team was mandated to exercise tighter control over the close dates, timely closing the lapsed opportunities.
+UpworkLeadAssistant.io is the transactional B2B scale-up selling the leadgen tool into Upwork sell-side agencies and established freelancers. This quick check-in reviews Account Execution (AE) performance four months in after the major operational shift, as two smaller remote sales teams merged into the unified pipeline to align and adopt consistent AE protocols and governance. Among other things, the team was mandated to exercise tighter control over the close dates, timely closing the lapsed opportunities.
 
 ## Executive Summary
-The analysis is based on HubSpot data for a 4 months deal cohort closed between Apr and Jul 22 2024. 
-The cohort lead input accounts for 60% inbound, 31% outbound, and 9% other sources combined. This exhibits mature inbound and solid outbound - employing emails and LinkedIn outreach - support for scaling ambitions. The four months represent the pipeline ramp-up that is set to continue on Jul 24 as the pipeline is filling up with new SQL’s. Data suggests that won deals close much earlier than the lost with a median cycle of 6 days for Won and 27 for Lost, and that likelihood of the win drops to 19% when a deal crosses 10 days of age.
+The analysis is based on HubSpot data for a 4 months deal cohort closed between Apr and Jul 22 2024.  
+
+The cohort lead input accounts for 60% inbound, 31% outbound, and 9% other sources combined. This exhibits mature inbound and solid outbound, employing emails and LinkedIn outreach, that - if sustained - can support the scaling ambitions. These four months represent the pipeline ramp-up that continues into stabilizing the pipeline's value in Jul 24 onwards. Data suggests that won deals close much earlier than the lost with a median cycle of 6 days for Won and 27 for Lost, and that likelihood of the win drops to 19% when a deal crosses 10 days of age. High degree of ghosted opportunities in the lost deals may suggest an immature B2B market with buyers acting in less rational and consistent ways.
 
 #### Key recommendations:
 - Enable knowledge-sharing by the best performed rep, Julia S
-- Implement team SLA for # of sales touches and time to close focused on the ghosted deals.
+- Implement team SLA for number of sales touches and time to close focused on the ghosted deals.
 #### Technical recommendations:
 - Flag sales and onboarding touches apart in the data for cleaner activity metrics
 - Add presets in dropdown for deal lost reasons
@@ -25,13 +26,14 @@ __AE activity & Lost deal analysis:__ AE number of sales touches, Pipeline won/l
 ![Winrates per AE and lead channel](winrates_per_ae_and_lead_channel.jpg)
 #### Median days to close:
 ![Median days to close](median_days_to_close.jpg)
-##### Findings:
-Outbound opp’s (26% winrate) look nearly twice harder to win than Inbound (55%) - benchmarks well against known market realities. Won deals get far less time to close than the Lost is also in line with the  known benchmarks.  
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/median_days_to_close.jpg" width="1036">
+#### Findings:
+Outbound opp’s (26% winrate) look nearly twice harder to win than Inbound (55%), benchmarking well against the known market realities. Won deals get far less time to close than the Lost is also in line with the known benchmarks.
 Cohort median sales cycle is 14 days, 6 to Won and 27 for Lost. The likelihood of win for any open deal that ages over 10 days drops to only 19%.  
-Won deal cycles are more consistent across AEs and show less variation. Lost deal cycles are more spread out, likely because the team is gradually moving away from the past habit of closing lost opportunities too late /not closing.  
-Recent hire, Vlad M, is standing out with short sale cycles, also with the least number of the closed deals.
+Won deal cycles are more consistent across AEs and show less variation. Lost deal cycles are more spread out, likely because the team is gradually moving away from the past habit of closing lost opportunities too late /not closing.
+The recent hire, Vlad M, is standing out with short sale cycles, also with the least number of the closed deals.
 
-##### Recommendations:
+#### Recommendations:
 Julia S - based on the 16 deals closed inc 3 outbound - is a rockstar; if sustained, provide for knowledge sharing through team coaching sessions, demo reviews etc.  
 Vlad M - a newcomer, with little history available; revisit in a few months to get more data.
 
