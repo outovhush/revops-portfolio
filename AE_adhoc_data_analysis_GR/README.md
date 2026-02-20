@@ -25,7 +25,6 @@ __AE activity & Lost deal analysis:__ AE number of sales touches, Pipeline won/l
 #### Winrates per AE and lead channel:
 ![Winrates per AE and lead channel](winrates_per_ae_and_lead_channel.jpg)
 #### Median days to close:
-![Median days to close]
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/median_days_to_close.jpg" width=70% height=70%>
 #### Findings:
 Outbound opp’s (26% winrate) look nearly twice harder to win than Inbound (55%), benchmarking well against the known market realities. Won deals get far less time to close than the Lost is also in line with the known benchmarks.
