@@ -49,7 +49,7 @@ The pipeline continues to ramp-up in Jul 24, the closed lost catch-up with SQL (
 Lost deals grew in number and in relative terms to the total closed with decrease in pipeline winrate. There is a spike in the closed loss in the last month of Jul 24.
 
 #### Lost deal reasons over time:
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/lost_deal_reasons_over_time.jpg" width=70% height=70%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/lost_deal_reasons_over_time.jpg" width=65% height=65%>
 
 Unresponsive and Others are the lost reasons accounting for the most of lost deals in June 24 and the bulk of the Jul 24 spike.
 
@@ -67,7 +67,7 @@ AE’s do both sales and onboarding work for the wins, so the number of touches 
 The number of touches for Unresponsive lost deals are highly spread out calling for better alignment and improving the team’s cadences as deal aging increases its probability to go lost.  
 Sviat H having the smallest fraction of 33% ghosted deals in his pipeline - can set the activity pattern to follow in respect of the ghosted deals with 38 median days to close, and min of 10 sales touches to deliver per an Unresponsive lost deal.  
 #### Recommendations:
-Implement team SLA for number of sales touches e.g. focusing on deals open longer than e.g. 10 days (81% likelihood of getting lost).
+Implement team SLA for number of sales touches and time to close e.g. focusing on deals open longer than e.g. 10 days (81% likelihood of getting lost).
 ### Lost reasons behind Other:
 There are total 16 deals closed lost with Other as the main reason and free text under the Lost Reason detail; after normalizing and and grouping:
 
