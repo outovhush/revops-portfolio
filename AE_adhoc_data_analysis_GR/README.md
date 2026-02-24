@@ -1,5 +1,5 @@
 ## Background
-UpworkLeadAssistant.io is the transactional B2B scale-up selling the leadgen tool into Upwork sell-side agencies and established freelancers. This quick check-in reviews Account Execution (AE) performance four months in after the major operational shift, as two smaller remote sales teams merged into the unified pipeline to align and adopt consistent AE protocols and governance. Among other things, the team was mandated to exercise tighter control over the close dates, timely closing the lapsed opportunities.
+UpworkLeadAssistant.io is B2B scale-up selling the Upwork leadgen tools into Upwork sell-side agencies and established freelancers. This quick check-in reviews Account Execution (AE) performance four months in after the major operational shift, as two smaller remote sales teams merged into the unified pipeline to align and adopt consistent AE protocols and governance. Among other things, the team was mandated to exercise tighter control over the close dates, timely closing the lapsed opportunities.
 
 ## Executive Summary
 The analysis is based on HubSpot data for a 4 months deal cohort closed between Apr and Jul 22 2024.  

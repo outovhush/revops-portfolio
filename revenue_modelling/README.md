@@ -1,7 +1,8 @@
 __Executive Summary__  
 This bottom-up model projects a SaaS business with a $350 MRR and a 6.25-month customer lifetime. While the partial LTV/CAC ratio of 12.7 appears strong, it only accounts for sales compensation and excludes marketing and lead gen spend. The model highlights a critical retention risk with an 84% NRR, driven by high monthly churn and zero expansion. Sales efficiency improves significantly by Month 12, with AE compensation costs stabilizing at 10% of revenue. Talent acquisition depends on off-shore remote hiring with low base salaries and effective tax rates which may present a bottleneck for engaging skilled customer-facing talent. 
 
-__Key Metrics & Drivers__
+__Key Metrics & Drivers__ 
+
 __Unit Economics:__ $2,188 LTV; $172 Partial CAC (excl marketing and lead gen); 12.7 LTV/CAC ratio.
 
 __Retention:__ $84% Net Revenue Retention (NRR) with no current expansion revenue.

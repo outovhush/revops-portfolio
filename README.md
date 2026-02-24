@@ -56,6 +56,16 @@ __Tech:__ HubSpot, Google Sheets
 
 __Results: [The report](AE_adhoc_data_analysis_GR/README.md)__
 
+#### 👉 Deal pipelime exploration, data cleaning and check on channel performance
+
+__Goal:__  Explore raw CRM pipeline dataset, identify and correct errors, compute deals to compare channel performance  
+
+__Skills:__ Data cleaning, data exploration, correlations, data visualization
+
+__Tech:__ Python, Pandas, Matplotlib, Seaborn
+
+__Results: [Analysis report](swag_23_pipeline_correlations/README.md)__
+
 #### 👉 Ad-hoc reporting
    
 __Goal:__ Evaluate and benchmark historical leadgen channel performance in terms of MQL, SQL throughput and conversion rates. Since the CRM's built-in reporting tools are limited, pull data through the API, clean and transform it to build custom visualization.
@@ -83,17 +93,6 @@ __Skills:__ Statistics, analytical thinking, Google sheets
 
 __Results: [Google Sheet report](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
 
-#### 👉 CRM deal dataset exploration
-
-__Goal:__  Explore raw CRM annual deal dataset, check some business metrics, identify inconsistencies and errors in the data
-
-__Skills:__ Data cleaning, data exploration, Pearson correlation, data visualization
-
-__Tech:__ Python, Pandas, Matplotlib, Seaborn
-
-__Code: [Example notebook](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_Deal%20dataset%20exploration.ipynb)__
-
-__Results:__ Few essential business metrics were visualized; the analysis revealed that expected correlations were not held for all lead generation channels. Major inconsistencies in the data were identified    
 
 #### 👉 Visualized data errors in the account db (CRM data)
 
