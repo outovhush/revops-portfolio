@@ -21,15 +21,15 @@ Thank you for reading! I hope these examples demonstrate the value I can bring o
 
 __Goal:__ Give stakeholders a high-level overview of the proposed B2B go-to-market process, from marketing and lead generation through customer success. Highlight the main stages, key activities, and handover points.     
 
-__Skills:__ B2B sales processes, business analysis, requirements gathering, process design, and visualization.
+__Skills:__ B2B sales processes, Business analysis, Requirements gathering, Process design, and Visualization.
 
-__Results: [E2E Process map](https://github.com/outovhush/revops-data-portfolio/blob/main/GTM_process_hi-level_map.jpg)__       
+__Results: [E2E GTM Process map](https://github.com/outovhush/revops-data-portfolio/blob/main/GTM_process_hi-level_map.jpg), and [AE process in more detail](https://github.com/outovhush/revops-data-portfolio/blob/main/AE_process_detail.jpg)__       
 
 #### 👉 Design of field event leadgen process
 
 __Goal:__ Share a hi-level diagram of the proposed field event process with stakeholders for approval. Include a detailed process map to support implementation and team onboarding. 
 
-__Results: [Field lead gen at hi-level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg), and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
+__Results: [Field leadgen at hi-level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg), and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
 
 ## Revenue Modeling and Capacity Planning
 
@@ -50,7 +50,7 @@ Sometimes oeprational dahsboards do not provide sufficient detail and you need a
 
 __Goal:__ To evaluate sales performance and pipeline health following major operational shift, identifying growth drivers, pinpointing weak spots, and providing recommendations.
 
-__Skills:__ Sales KPI's, descriptive statistics, data visualization, analytical thinking
+__Skills:__ Sales KPI's, Descriptive statistics, Data visualization, Analytical thinking
 
 __Tech:__ HubSpot, Google Sheets
 
@@ -60,7 +60,7 @@ __Results: [The report](AE_adhoc_data_analysis_GR/README.md)__
 
 __Goal:__  Review the raw pipeline data, correct errors, analyze metrics to spot main bottlenecks in the Account Execution process, and provide recommendations.
 
-__Skills:__ Data cleaning, data exploration, correlations, data visualization
+__Skills:__ Data cleaning, Data exploration, Statistics, Data visualization
 
 __Tech:__ Python, Pandas, Matplotlib, Seaborn
 
@@ -70,7 +70,7 @@ __Results: [Analysis report](swag_23_pipeline_correlations/README.md)__
    
 __Goal:__ Evaluate and benchmark historical leadgen channel performance in terms of MQL, SQL throughput and conversion rates. Since the CRM's built-in reporting tools are limited, pull data through the API, clean and transform it to build custom visualization.
 
-__Skills:__ Leadgen KPI's, data analysis and visualization, HubSpot API, Python/Pandas
+__Skills:__ Leadgen KPI's, Data analysis and Visualization, HubSpot API, Python/Pandas
 
 __Results: [Historical performance of the lead generation channels](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
