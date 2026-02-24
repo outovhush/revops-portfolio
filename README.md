@@ -56,9 +56,9 @@ __Tech:__ HubSpot, Google Sheets
 
 __Results: [The report](AE_adhoc_data_analysis_GR/README.md)__
 
-#### 👉 Deal pipelime exploration, data cleaning and check on channel performance
+#### 👉 Deal pipeline exploration, data cleaning and check on process
 
-__Goal:__  Explore raw CRM pipeline dataset, identify and correct errors, compute deals to compare channel performance  
+__Goal:__  Review the raw pipeline data, correct errors, analyze metrics to spot main bottlenecks in the Account Execution process, and provide recommendations.
 
 __Skills:__ Data cleaning, data exploration, correlations, data visualization
 
