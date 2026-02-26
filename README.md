@@ -1,4 +1,4 @@
-# revops-portfolio
+# Showing examples of my work in Revevue Operations
 
 Hey there! I'm Andrew👋
 
@@ -25,7 +25,7 @@ __Skills:__ B2B sales processes, Business analysis, Requirements gathering, Proc
 
 __Results: [E2E GTM Process map](https://github.com/outovhush/revops-data-portfolio/blob/main/GTM_process_hi-level_map.jpg), and [AE process in more detail](https://github.com/outovhush/revops-data-portfolio/blob/main/AE_process_detail.jpg)__       
 
-#### 👉 Design of field event leadgen process
+#### 👉 Design of field event demand generation process
 
 __Goal:__ Share a hi-level diagram of the proposed field event process with stakeholders for approval. Include a detailed process map to support implementation and team onboarding. 
 
@@ -44,23 +44,21 @@ __Results: [Model summary with recommendations](revenue_modelling/README.md)__
 
 ## Data Analysis, Reporting and BI
 
-#### 👉 Ad-hoc pipeline analytics focused on the team performance and the lost deals
+#### 👉 Ad-hoc pipeline analytics focused on the AE team performance and the opportunities lost
 
-Sometimes oeprational dahsboards do not provide sufficient detail and you need a quick dive into the specific section of your data.
+Sometimes operational dashboards do not provide sufficient detail, and you'd need a quick dive into the specific section of the data.
 
-__Goal:__ To evaluate sales performance and pipeline health following major operational shift, identifying growth drivers, pinpointing weak spots, and providing recommendations.
+__Goal:__ Evaluate Account Executive performance and pipeline health following major operational shift, identifying growth drivers and weaknesses, and providing recommendations.
 
 __Skills:__ Sales KPI's, Descriptive statistics, Data visualization, Analytical thinking
 
-__Tech:__ HubSpot, Google Sheets
-
 __Results: [The report](AE_adhoc_data_analysis_GR/README.md)__
 
-#### 👉 Deal pipeline exploration, data cleaning and check on process
+#### 👉 Deal pipeline exploration focused on the channel performance
 
-__Goal:__  Review the raw pipeline data, correct errors, analyze metrics to spot main bottlenecks in the Account Execution process, and provide recommendations.
+__Goal:__  Analyze the pipeline created over the period, identify and correct errors, review lead channel performance in targeting larger customer accounts.
 
-__Skills:__ Data cleaning, Data exploration, Statistics, Data visualization
+__Skills:__ Data cleaning, Data exploration, Statistics, Data Visualization
 
 __Tech:__ Python, Pandas, Matplotlib, Seaborn
 
