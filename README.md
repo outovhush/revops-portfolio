@@ -56,7 +56,7 @@ __Results: [The report](AE_adhoc_data_analysis_GR/README.md)__
 
 #### 👉 Deal pipeline exploration focused on the channel performance
 
-__Goal:__  Analyze the pipeline created over the period, identify and correct errors, review lead channel performance in targeting larger customer accounts.
+__Goal:__  Analyze a cohort of new customer acqusiiton opportunities created over the period, identify and fix data errors, reveal lead channel performance.
 
 __Skills:__ Data cleaning, Data exploration, Statistics, Data Visualization
 
