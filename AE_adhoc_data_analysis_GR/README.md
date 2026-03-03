@@ -39,7 +39,7 @@ Vlad M - a newcomer, with little history available; revisit in a few months to g
 
 ### Lost deal analysis:
 #### New deals (SQL’s) and closed deals over time:
- <img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/New_deals_sqls_and_closed_deals_over_time.jpg" width=70% height=70%>  
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/AE_adhoc_data_analysis_GR/New_deals_sqls_and_closed_deals_over_time.jpg" width=70% height=70%>  
 
 The pipeline continues to ramp-up in Jul 24, the closed lost catch-up with SQL (new deals’) numbers with the median of 27 days to close; need to check-back with a few months more of the data to evaluate the sustained rates.
 #### Won/Lost deals and winrate over time:

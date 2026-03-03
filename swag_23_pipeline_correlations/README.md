@@ -30,6 +30,19 @@ We can observe that regardless of the channel the winrates are in significant de
 - Win Rate by Volume, Median Deal Cycles.
 - Account Size measured by company headcount.
 
+## Data exploration and error correction
+
+#### 1st Deal-Account association
+
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/10_1st_deal_account_association.jpg" width=70% height=70%>
+
+There multiple 1st deals related with one account (company) in the raw dataset, this is an error. For simple let's fix these by programmatically by creating a mask that keeps only the earliest created deal per company, reducing the raw dataset down to 391 valid first-time deals.
+
+#### Account industry not defined
+
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/20_account_industry_not_defined.jpg" width=70% height=70%>
+
+Insight: Company (account) industry undefined for 70 or 18% of the total dataset accounts.
 
 
 

@@ -56,7 +56,7 @@ __Results: [The report](AE_adhoc_data_analysis_GR/README.md)__
 
 #### 👉 Sales pipeline exploration focused on the channel performance
 
-__Goal:__  Analyze new customer acquisition to understand channel performance in terms of account firmographics (headcounts), deal cycles and revenue conversion (win rates).
+__Goal:__  Analyze new customer acquisition to understand channel performance in terms of customer account sizes, efficiency of capturing value potential, deal cycles, and revenue conversion (win rates).
 
 __Skills:__ Data cleaning, Data exploration, Statistics, Data Visualization
 
