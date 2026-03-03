@@ -40,7 +40,7 @@ There multiple 1st deals related with one account (company) in the raw dataset, 
 
 #### 2. Account industry not defined
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/20_account_industry_not_defined.jpg">
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/20_account_industry_not_defined.jpg" width=80% height=80%>
 
 Insight: Company (account) industry undefined for 70 or 18% of the total dataset accounts.
 
@@ -54,7 +54,7 @@ A frequency analysis of company headcount reveals sharp round numbers (e.g., 10.
 
 #### 4. 2023 COhort Deals created
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/41_2023_deals_created.jpg" width=40% height=40%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/41_2023_deals_created.jpg" width=35% height=35%>
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/42_2023_deals_created.jpg" width=40% height=40%>
 
@@ -95,24 +95,24 @@ This is the opposite of Inbound, Pearson is strong but Spearman is weak. This us
 
 #### 8. Deal Winrates per channel
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/81_deal_winrates_per_channel.jpg" width=70% height=70%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/81_deal_winrates_per_channel.jpg" width=60% height=60%>
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/82_deal_winrates_per_channel.jpg" width=70% height=50%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/82_deal_winrates_per_channel.jpg" width=50% height=50%>
 
 Winrates computed on the cohort of the deals closed within the 2023.
 inbound winrate is statistically higher than Outbound, conforming to known market trends. Field may have same or higher WR as inbound likely cause of human touch and material goods being sold. Note confidence interval for Field that is broader ‘cause of the limited 41 deal observations.
 
 #### 9. Deal Winrates per Account size tiers
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/91_deal_winrates_per_account_tier.jpg" width=70% height=70%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/91_deal_winrates_per_account_tier.jpg" width=60% height=60%>
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/92_deal_winrates_per_account_tier.jpg" width=67% height=50%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/92_deal_winrates_per_account_tier.jpg" width=50% height=50%>
 
 #### 10. Deal Cycles per Channel
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/101_deal_cycles_per_channel.jpg" width=70% height=50%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/101_deal_cycles_per_channel.jpg" width=50% height=50%>
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/102_deal_cycles_per_channel.jpg" width=70% height=70%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/102_deal_cycles_per_channel.jpg" width=50% height=50%>
 
 
 
