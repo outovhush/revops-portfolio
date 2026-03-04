@@ -108,6 +108,8 @@ inbound winrate is statistically higher than Outbound, conforming to known marke
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/92_deal_winrates_per_account_tier.jpg" width=50% height=50%>
 
+Winrate decays significantly moving from the first to the upper Account size tiers, the 2nd and 3rd. Standard .95 confidence intervals shown.
+
 #### 10. Deal Cycles
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/101_deal_cycles_per_account_tier.jpg" width=50% height=50%>
