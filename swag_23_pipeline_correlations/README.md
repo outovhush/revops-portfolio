@@ -114,7 +114,7 @@ inbound winrate is statistically higher than Outbound, conforming to known marke
 
 Inbound deals have a median closing time of 27 days, while outbound deals take 43 days - it is statistically significant. Field deals are similar to inbound at 30 days median, but their confidence interval extends more upward.
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/102_wonlost_deal_cycles_total.jpg" width=50% height=50%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/102_wonlost_deal_cycles_total.jpg" width=60% height=60%>
 
 There is no significant difference in median close time between Won and Lost across all three channels, however bigger variance for won deal cycles is notable.  
 
