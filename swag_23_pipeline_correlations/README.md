@@ -8,13 +8,13 @@ The initial dataset contains 934 CRM deals records created between 2023-02-10 an
 
 ## __Executive Summary__ 
 
-Outbound targeted largest accounts (median account size of 252 vs. Inbound's 65) but suffered low-end winrate (o/b volume winrate 22% is significantly lower than Inbound’s 38%, generally conforming to observable market trends). With median account size of 144, Field (conferences) targeted mid-size accounts, remaining limited by the accessible field events’ audiences. Winrate for Field is on par with Inbound, however its confidence interval is broader to the upper as the fewer datapoints available. Deal cycles for won and lost are highly spread-out for all three channels, making it difficult to infer. With a low confidence, medians for Inbound and Field wins are at roughly same 33 days, while for the Lost it’s at 27 days.  
+Outbound targeted largest accounts (median account size of 252 vs. Inbound's 65) but suffered low-end winrate (volume winrate 22% is significantly less than Inbound’s 38%, generally conforming to observable market trends). With median account size of 144, Field (conferences) targeted mid-size accounts, remaining likely limited by the accessible field events’ audiences. Winrates and deal close cycles for Field is on par with Inbound, however Field confidence intervals are broader to the upper as fewer datapoints available. Deal cycles for won and lost are highly spread-out irrespective of the channel, no reliable difference is observed between win and lost cycle times.  
 
-It’s tempting to explain high Field conference performance by combination of the personal touches with the material goods (the corporate merchandise) being marketed, however confidence intervals for WR and Deal cycles are broad asking for more data for better inference.
+It’s tempting to explain high Field performance - that is on par with Inbound for winrates and deal cycles - by the combination of the personal touch with the attractive material merchandise items being sold, however Field confidence intervals are on a broader side asking for more data.
 
-While Inbound demonstrated statistically significant positive correlation between deal amount and account size (Spearman: 𝜌≈0.36, 𝑝-value<0.00001), there is weak to non-existent correlation in Outbound and Field. This indicates that while Outbound adn Field can steer us to larger target accounts, the existing SQL-Opportunity-Closing process seems to fall short to capture the higher potential value associated with such leads.
+Inbound shows a strong positive correletion between deal amount and account size, it is statistically significant. But Outbound and Field have weak weak to non-existent correlation. While Outbound and Field can steer us to bigger accounts, yet our current SQL-to-Opportunity-to-Close motion fails to capture the larger deal values from those larger accounts.
 
-We can observe that regardless of the channel the winrates are in significant decline from the account size tier1 [0, 201) to tier2 and tier3 ([201, 901) and [901.0, inf)). This shows the AE team needs to address improving its skills in closing bigger new accounts. 
+We can observe that regardless of the channel the winrates are in significant decline from the account size tier1 [0, 201) to tier2 and tier3 ([201, 901) and [901.0, inf)). This shows the AE team needs to address improving its skills in closing bigger new accounts.
 
 ### __Business Recommendations__  
 - Audit Outbound SQL-Opportunity-Closing motion to identify the value leaks. Add SQL data to evaluate SQL->Opportunity conversions per channel. Sample and review manually of a cohort of high-size account outbound leads to reveal details of their journey. 
@@ -52,7 +52,7 @@ A frequency analysis of company headcount reveals sharp round numbers (e.g., 10.
 
 ### Deal source performance
 
-#### 4. 2023 COhort Deals created
+#### 4. 2023 Cohort Deals created
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/41_2023_deals_created.jpg" width=35% height=35%>
 
@@ -108,11 +108,17 @@ inbound winrate is statistically higher than Outbound, conforming to known marke
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/92_deal_winrates_per_account_tier.jpg" width=50% height=50%>
 
-#### 10. Deal Cycles per Channel
+#### 10. Deal Cycles
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/101_deal_cycles_per_channel.jpg" width=50% height=50%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/101_deal_cycles_per_account_tier.jpg" width=50% height=50%>
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/102_deal_cycles_per_channel.jpg" width=50% height=50%>
+Inbound deals have a median closing time of 27 days, while outbound deals take 43 days - it is statistically significant. Field deals are similar to inbound at 30 days median, but their confidence interval extends more upward.
+
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/102_wonlost_deal_cycles_total.jpg" width=50% height=50%>
+
+There is no significant difference in median close time between Won and Lost across all three channels, however bigger variance for won deal cycles is notable.  
+
+
 
 
 
