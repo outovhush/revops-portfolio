@@ -33,7 +33,7 @@ __Results: [Field leadgen at hi-level](https://github.com/outovhush/revops-data-
 
 ## Revenue Modeling and Capacity Planning
 
-#### 👉 SaaS Revenue & Team compensation model
+#### 👉 SaaS Revenue & Compensation Model
 
 __Goal:__ Identify bottlenecks, validate unit economics, and create a data-driven hiring and compensation roadmap that scales sales and CS together with the revenue growth.
 
@@ -44,7 +44,7 @@ __Results: [Model summary with recommendations](revenue_modelling/README.md)__
 
 ## Data Analysis, Reporting and BI
 
-#### 👉 Ad-hoc pipeline analytics focused on the AE team performance and the opportunities lost
+#### 👉 Ad-hoc analytics focused on the AE team performance and the lost deals
 
 Sometimes operational dashboards do not provide sufficient detail, and you'd need a quick dive into the specific section of the data.
 
@@ -56,15 +56,23 @@ __Results: [The report](AE_adhoc_data_analysis_GR/README.md)__
 
 #### 👉 Sales pipeline exploration focused on the channel performance
 
-__Goal:__  Analyze new customer acquisition to understand channel performance in terms of customer account sizes, efficiency of capturing value potential, deal cycles, and revenue conversion (win rates).
+__Goal:__  Analyze new customer acquisition to understand channel performance in terms of customer account sizes, effectiveness of value capturing, deal cycles, and revenue conversion (win rates).
 
-__Skills:__ Data cleaning, Data exploration, Statistics, Data Visualization
+__Skills:__ Data cleaning, Data exploration, Statistics, and Data Visualization
 
 __Tech:__ Python, Pandas, Matplotlib, Seaborn
 
 __Results: [Analysis report](swag_23_pipeline_correlations/README.md)__
 
-#### 👉 Ad-hoc reporting
+#### 👉 Sales pipeline exploration focused on the channel performance
+
+__Goal:__  Estimate the effectiveness of two CTA strategies for a B2B funnel: trial or demo converts better? 
+
+__Skills:__ Data exploration and cleaning, Statistics, Data Visualization
+
+__Results: [Analysis report](trial_or_demo_conversion/README.md)__
+
+#### 👉 Ad-hoc reporting outside CRM
    
 __Goal:__ Evaluate and benchmark historical leadgen channel performance in terms of MQL, SQL throughput and conversion rates. Since the CRM's built-in reporting tools are limited, pull data through the API, clean and transform it to build custom visualization.
 

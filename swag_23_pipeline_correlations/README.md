@@ -12,13 +12,13 @@ Outbound targeted largest accounts (median account size of 252 vs. Inbound's 65)
 
 It’s tempting to explain high Field performance - that is on par with Inbound for winrates and deal cycles - by the combination of the personal touch with the attractive material merchandise items being sold, however Field confidence intervals are on a broader side asking for more data.
 
-Inbound shows a strong positive correletion between deal amount and account size, it is statistically significant. But Outbound and Field have weak weak to non-existent correlation. While Outbound and Field can steer us to bigger accounts, yet our current SQL-to-Opportunity-to-Close motion fails to capture the larger deal values from those larger accounts.
+Inbound shows a strong positive correletion between deal amount and account size, it is statistically significant. But Outbound and Field have weak to non-existent correlation. While Outbound and Field can steer us to bigger accounts, yet our current SQL-to-Opportunity-to-Close motion fails to capture the larger deal values from those larger accounts.
 
 We can observe that regardless of the channel the winrates are in significant decline from the account size tier1 [0, 201) to tier2 and tier3 ([201, 901) and [901.0, inf)). This shows the AE team needs to address improving its skills in closing bigger new accounts.
 
 ### __Business Recommendations__  
-- Audit Outbound SQL-Opportunity-Closing motion to identify the value leaks. Add SQL data to evaluate SQL->Opportunity conversions per channel. Sample and review manually of a cohort of high-size account outbound leads to reveal details of their journey. 
-- Upon additional validation, consider crafting the dedicated Sales qualification - Deal creation - Closing cadences for high-size account leads, Outbound in the first place.
+- Audit Outbound SQL-Opportunity-Closing process to identify the value leaks. Add SQL data to evaluate SQL->Opportunity conversions per channel. Sample and review manually of a cohort of high-size account outbound leads to reveal details of their journey. 
+- Upon validation, consider crafting the dedicated Sales qualification - Deal creation - Closing cadences for high-size account leads focused on the leads originating from Outbound and Field channels.
 
 ### __Technical recommendations__
 
