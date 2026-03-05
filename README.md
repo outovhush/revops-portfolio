@@ -1,4 +1,4 @@
-# Showing examples of my work in Revevue Operations
+# Showing examples of my work in Revenue Operations
 
 Hey there! I'm Andrew👋
 
@@ -74,7 +74,7 @@ __Results: [Analysis report](trial_or_demo_conversion/README.md)__
 
 #### 👉 Ad-hoc reporting outside CRM
    
-__Goal:__ Evaluate and benchmark historical leadgen channel performance in terms of MQL, SQL throughput and conversion rates. Since the CRM's built-in reporting tools are limited, pull data through the API, clean and transform it to build custom visualization.
+__Goal:__ Evaluate and benchmark historical lead generation channel performance in terms of MQL, SQL, throughput and conversion rates. Since the CRM's built-in reporting tools are limited, pull data through the API, clean and transform it to build custom visualizations.
 
 __Skills:__ Leadgen KPI's, Data analysis and Visualization, HubSpot API, Python/Pandas
 
