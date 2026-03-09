@@ -54,7 +54,7 @@ __Skills:__ Sales KPI's, Descriptive statistics, Data visualization, Analytical 
 
 __Results: [The report](AE_adhoc_data_analysis_GR/README.md)__
 
-#### 👉 Sales pipeline exploration focused on the channel performance
+#### 👉 Exploring the sales pipeline with insights into channel performance.
 
 __Goal:__  Analyze new customer acquisition to understand channel performance in terms of customer account sizes, effectiveness of value capturing, deal cycles, and revenue conversion (win rates).
 
@@ -64,9 +64,9 @@ __Tech:__ Python, Pandas, Matplotlib, Seaborn
 
 __Results: [Analysis report](swag_23_pipeline_correlations/README.md)__
 
-#### 👉 Sales pipeline exploration focused on the channel performance
+#### 👉 Trial or Demo?
 
-__Goal:__  Estimate the effectiveness of two CTA strategies for a B2B funnel: trial or demo converts better? 
+__Goal:__  Estimate the historical effectiveness of two CTA strategies for a B2B funnel, is it trial or demo that converts better? 
 
 __Skills:__ Data exploration and cleaning, Statistics, Data Visualization
 
