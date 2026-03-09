@@ -5,7 +5,7 @@ This analysis evaluates the effectiveness of two primary Call-to-Action (CTA) st
 The dataset comprises 5,000 unique CRM contacts and 3,266 companies. A lack of reliable relational IDs required merging records based on email domain matching. Missing timestamp data for funnel events required imputation to facilitate chronological comparisons.
 
 ## Executive Summary
-Our analysis answered a common pipeline question: Do prospect customers convert at a higher rate when their first interaction is a free trial or a demo? The data reveals that companies initiating a free trial convert at 13.16%, compared to 11.05% for those starting with a demo. This 2.1% absolute lift represents a nearly 19% relative increase in conversion likelihood. While the statistical significance sits just outside the strict 95% confidence threshold (p-value: 0.07), the substantial business upside—a 19% boost in customer acquisition—strongly supports prioritizing the free-trial funnel in top-of-funnel marketing efforts.
+Our analysis answered a common pipeline question: do prospect customers convert at a higher rate when their first interaction is a free trial or a demo? The data reveals that companies initiating a free trial convert at 13.16%, compared to 11.05% for those starting with a demo. This 2.1% absolute lift represents a nearly 19% relative increase in conversion likelihood. While the statistical significance sits just outside the strict 95% confidence interval (there is 7.24% chance that the observed difference is just due to random luck), the substantial business upside - a 19% boost in customer acquisition - strongly supports prioritizing the free-trial funnel in top-of-funnel marketing efforts.
 
 ## Business Recommendations:
 
@@ -33,6 +33,6 @@ In plain English, we cannot say with 95% certainty that the "Trial" converts bet
 Despite the lack of a statistical rigor, the data still tells a compelling story:  
 Trial Conversion: 13.16% (206 / 1565)  
 Demo Conversion: 11.05% (188 / 1701)  
-The Lift: The Trial group is converting roughly 19% better than the Demo group in relative terms. There is a 7.24% chance that the 2.1% observed is just "noise" or random luck.
+The Lift: The Trial group is converting roughly 19% better than the Demo group in relative terms. There is a 7.24% chance that the 2.1% observed difference is just "noise" or random luck.
 
 
