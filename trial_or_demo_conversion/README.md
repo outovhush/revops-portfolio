@@ -9,9 +9,30 @@ Our analysis answered a common pipeline question: Do prospect customers convert 
 
 ## Business Recommendations:
 
-- __Prioritize Trial CTAs.__ Shift top-of-funnel website design and marketing spend to heavily feature the "Start Free Trial" CTA, as it demonstrates a stronger pull-through to closed-won revenue.
+- __Prioritize Trial CTAs.__ Shift top-of-funnel website design and marketing spend to heavily feature the Free Trial CTA, as it demonstrates a stronger pull to closed-won revenue.
 
 - __Monitor Downstream Quality.__ Track the post-conversion metrics (e.g., Net Revenue Retention, Churn Rate) of both cohorts to ensure the higher volume of trial conversions translates into sustainable Long-Term Value gain.
 
 ### Business Metrics Evaluated
-Lead-to-Customer Conversion Rate, First-Touch Distribution, Absolute and Relative Conversion Lift.
+Lead-to-Customer Conversion Rate, Absolute and Relative Conversion Lift, Confidence Intervals.
+
+#### Conversion estimates with .95 confidence intervals
+
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/trial_or_demo_conversion/conversion_likelihood.jpg" width=35% height=35%>
+
+The plot shows that companies starting with a trial generally have a higher likelihood of conversion than those starting with a demo, but the slight overlap in confidence intervals (CIs) adds a layer of nuance to the statistical significance.  
+The point estimate for "trial" (~0.132) is well outside the "demo" interval, and vice versa. This suggests that while there is some uncertainty, there is a strong probability that the trial group truly converts at a higher rate.
+
+#### Chi-squared test and p-value
+
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/trial_or_demo_conversion/contingency_table.jpg" width=35% height=35%>
+
+The Statistical Verdict: we use threshold of 0.05 is used to determine significance. Our Result: p-value = 0.0724. Since 0.0724 > 0.05, we fail to reject the null hypothesis.  
+In plain English, we cannot say with 95% certainty that the "Trial" converts better than the "Demo" group.  
+ 
+Despite the lack of a statistical rigor, the data still tells a compelling story:  
+Trial Conversion: 13.16% (206 / 1565)  
+Demo Conversion: 11.05% (188 / 1701)  
+The Lift: The Trial group is converting roughly 19% better than the Demo group in relative terms. There is a 7.24% chance that the 2.1% observed is just "noise" or random luck.
+
+
