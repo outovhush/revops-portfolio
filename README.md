@@ -54,7 +54,7 @@ __Skills:__ Sales KPI's, Descriptive statistics, Data visualization, Analytical 
 
 __Results: [The report](AE_adhoc_data_analysis_GR/README.md)__
 
-#### 👉 Exploring the sales pipeline with insights into channel performance.
+#### 👉 Exploring the sales pipeline with insights into channel performance
 
 __Goal:__  Analyze new customer acquisition to understand channel performance in terms of customer account sizes, effectiveness of value capturing, deal cycles, and revenue conversion (win rates).
 
@@ -82,9 +82,9 @@ __Results: [Leadgen channel performance](https://github.com/outovhush/revops-dat
 
 #### 👉 Refactoring legacy spreadsheet report
 
-__Goal:__ Update tech stack for the operational reporting for B2B2C SaaS product; create draft visualizations to report on the dedicated set of metrics.   
+__Goal:__ Refactor legacy spreadsheet-based reporting into a modern scalable solution using Tableau for a B2B2C SaaS company; create draft visualizations to report on the dedicated set of metrics.   
 
-__Skills :__ Data Exploration, Data Analysis, Python/Pandas, Tableau
+__Skills :__ Data Exploration and Analysis, Domain Specific Metrics, Python/Pandas, Tableau
 
 __Results: [Draft reporting](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
 
