@@ -80,9 +80,9 @@ __Skills:__ Leadgen KPI's, Data analysis and Visualization, HubSpot API, Python/
 
 __Results: [Leadgen channel performance](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
-#### 👉 Refactoring spreadsheet reporting
+#### 👉 Refactoring legacy spreadsheet report
 
-__Goal:__ Update tech stack for the operational reporting for B2B2C SaaS product; create draft visulizations to report on the dedictaed set of metrics.   
+__Goal:__ Update tech stack for the operational reporting for B2B2C SaaS product; create draft visualizations to report on the dedicated set of metrics.   
 
 __Skills :__ Data Exploration, Data Analysis, Python/Pandas, Tableau
 
