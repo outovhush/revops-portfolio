@@ -60,7 +60,7 @@ __Goal:__  Analyze new customer acquisition to understand channel performance in
 
 __Skills:__ Data cleaning, Data exploration, Statistics, and Data Visualization
 
-__Tech:__ Python, Pandas, Matplotlib, Seaborn
+__Tech:__ Python/Pandas, Matplotlib, Seaborn
 
 __Results: [Analysis report](swag_23_pipeline_correlations/README.md)__
 
@@ -74,12 +74,19 @@ __Results: [Analysis report](trial_or_demo_conversion/README.md)__
 
 #### 👉 Ad-hoc reporting outside CRM
    
-__Goal:__ Evaluate and benchmark historical lead generation channel performance in terms of MQL, SQL, throughput and conversion rates. Since the CRM's built-in reporting tools are limited, pull data through the API, clean and transform it to build custom visualizations.
+__Goal:__ Evaluate and benchmark historical lead generation channel performance in terms of MQL, SQL, throughput and conversion rates. Since the CRM's built-in reporting tools are limited, pull data through the API, clean, transform, and build custom visualizations.
 
 __Skills:__ Leadgen KPI's, Data analysis and Visualization, HubSpot API, Python/Pandas
 
-__Results: [Historical performance of the lead generation channels](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
+__Results: [Leadgen channel performance](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
+#### 👉 Refactoring spreadsheet reporting
+
+__Goal:__ Update tech stack for the operational reporting for B2B2C SaaS product; create draft visulizations to report on the dedictaed set of metrics.   
+
+__Skills :__ Data Exploration, Data Analysis, Python/Pandas, Tableau
+
+__Results: [Draft reporting](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
 
 ## Data Quality and Hygiene
 
