@@ -32,19 +32,19 @@ We can observe that regardless of the channel the winrates are in significant de
 
 ## Data exploration and error correction
 
-#### 1. 1st Deal-Account association
+#### 1. There 50 accounts with two or more 1st Deals linked to each, that's an error 
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/10_1st_deal_account_association.jpg" width=35% height=35%>
 
-There multiple 1st deals related with one account (company) in the raw dataset, this is an error. For simple let's fix these by programmatically by creating a mask that keeps only the earliest created deal per company, reducing the raw dataset down to 391 valid first-time deals.
+For simple let's fix these by programmatically by creating a mask that keeps only the earliest created deal per company, reducing the raw dataset down to 391 valid first-time deals.
 
-#### 2. Account industry not defined
+#### 2. Account Industry not defined for 18% of the Accounts
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/20_account_industry_not_defined.jpg" width=80% height=80%>
 
-Insight: Company (account) industry undefined for 70 or 18% of the total dataset accounts.
+Company (account) industry undefined for 70 or 18% of the total dataset accounts.
 
-#### 3. Headcount Abnormal Frequencies
+#### 3. Sharp round numbers for Account Headcounts have abnormal frequencies
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/30_headcount_abnormal_frequencies.jpg" width=40% height=40%>
 
@@ -52,19 +52,19 @@ A frequency analysis of company headcount reveals sharp round numbers (e.g., 10.
 
 ### Deal source performance
 
-#### 4. 2023 Cohort Deals created
+#### 4. Deals created for each of the channels in 2023
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/41_2023_deals_created.jpg" width=35% height=35%>
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/42_2023_deals_created.jpg" width=40% height=40%>
 
-#### 5. Deals by Channel by Company (Account) size
+#### 5. Account Size distribution and median for the three main channels in 2023
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/50_deals_by_channel_by_company_size.jpg" width=70% height=70%>
 
-Insight: A clear separation in targeting strategy emerges. Inbound attracts smaller accounts (Median Headcount = 65), while Outbound (Median Headcount = 252) and Field events (Median Headcount = 144) are successfully penetrating the mid-market and enterprise segments.
+A clear separation in targeting performance emerges. Inbound attracts smaller accounts (Median Headcount = 65), while Outbound (Median Headcount = 252) and Field events (Median Headcount = 144) are successfully penetrating the mid-market and enterprise segments.
 
-#### 6. Exploring linear relationships - Deal Amount vs. Headcount Scatterplots & Correlations
+#### 6. Exploring the relationships between Deal Amount vs Account Headcount for each of the main channels
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/61_explore_linear_relationships.jpg">
 
@@ -72,7 +72,7 @@ Extreme outliers in Account HC and in the Deal Amounts obscure linear relationsh
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/62_pearson_corr.jpg" width=70% height=70%>
 
-#### 7. Non-parametric test - Deal Amount vs. Headcount Scatterplots & Correlations
+#### 7. Going deeper: exploring non-linear relationships between Deal Amount vs Account Headcount for each of the main channels
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/71_non_parametric_test.jpg">
 
@@ -93,7 +93,7 @@ Pearson: rho ~0.37 (p = 0.005) - Significant
 Spearman: rho ~0.19 (p = 0.16) - Not significant  
 This is the opposite of Inbound, Pearson is strong but Spearman is weak. This usually means that a few massive outliers are driving the linear correlation. Data is limited here to 56 observations, Field results need to be taken with caution.
 
-#### 8. Deal Winrates per channel
+#### 8. Inbound volume winrate is higher than Outbound
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/81_deal_winrates_per_channel.jpg" width=60% height=60%>
 
@@ -102,7 +102,7 @@ This is the opposite of Inbound, Pearson is strong but Spearman is weak. This us
 Winrates computed on the cohort of the deals closed within the 2023.
 inbound winrate is statistically higher than Outbound, conforming to known market trends. Field may have same or higher WR as inbound likely cause of human touch and material goods being sold. Note confidence interval for Field that is broader ‘cause of the limited 41 deal observations.
 
-#### 9. Deal Winrates per Account size tiers
+#### 9. Winrate drops for larger Accounts
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/91_deal_winrates_per_account_tier.jpg" width=60% height=60%>
 
@@ -110,7 +110,7 @@ inbound winrate is statistically higher than Outbound, conforming to known marke
 
 Winrate decays significantly moving from the first to the upper Account size tiers, the 2nd and 3rd. Standard .95 confidence intervals shown.
 
-#### 10. Deal Cycles
+#### 10. Inbound and Field are similar and have the shortest Deal Cycles
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/101_deal_cycles_per_account_tier.jpg" width=50% height=50%>
 
