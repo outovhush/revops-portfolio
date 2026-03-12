@@ -66,7 +66,7 @@ __Results: [Analysis report](swag_23_pipeline_correlations/README.md)__
 
 #### 👉 Trial or Demo?
 
-__Goal:__  Estimate the historical effectiveness of two CTA strategies for a B2B funnel, is it trial or demo that converts better? 
+__Goal:__  Estimate the historical effectiveness of two CTA strategies for a B2B funnel: does Trial or Demo  convert better?
 
 __Skills:__ Data exploration and cleaning, Statistics, Data Visualization
 
@@ -82,11 +82,12 @@ __Results: [Leadgen channel performance](https://github.com/outovhush/revops-dat
 
 #### 👉 Refactoring legacy spreadsheet report
 
-__Goal:__ Refactor legacy spreadsheet-based reporting into a modern scalable solution using Tableau for a B2B2C SaaS company; create draft visualizations to report on the dedicated set of metrics.   
+__Goal:__ Refactor legacy spreadsheet-based Performance & Revenue Operations reporting
+ into a modern scalable solution using Tableau for a B2B2C SaaS company; draft visual story to report on the dedicated set of metrics.   
 
 __Skills :__ Data Exploration and Analysis, Domain Specific Metrics, Python/Pandas, Tableau
 
-__Results: [Draft reporting](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
+__Results: [B2B2C Performance & Revenue Operations Report](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
 
 ## Data Quality and Hygiene
 
