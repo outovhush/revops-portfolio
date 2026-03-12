@@ -8,13 +8,13 @@ The initial dataset contains 934 CRM deals records created between 2023-02-10 an
 
 ## __Executive Summary__ 
 
-Outbound targeted largest accounts (median account size of 252 vs. Inbound's 65) but suffered low-end winrate (volume winrate 22% is significantly less than Inbound’s 38%, generally conforming to observable market trends). With median account size of 144, Field (conferences) targeted mid-size accounts, remaining likely limited by the accessible field events’ audiences. Winrates and deal close cycles for Field is on par with Inbound, however Field confidence intervals are broader to the upper as fewer datapoints available. Deal cycles for won and lost are highly spread-out irrespective of the channel, no reliable difference is observed between win and lost cycle times.  
+Outbound targeted largest accounts (median account size of 252 vs. Inbound's 65) but suffered low-end winrate (volume winrate 22% is less than Inbound’s 38%, generally conforming to observable market trends). With median account size of 144, Field (conferences) targeted mid-size accounts, remaining limited by the accessible field events’ audiences. Winrates and deal close cycles for Field is on par with Inbound, however Field has bigger uncertainty as fewer datapoints are available. No reliable difference is observed between Won and Lost deal cycles.  
 
 It’s tempting to explain high Field performance - that is on par with Inbound for winrates and deal cycles - by the combination of the personal touch with the attractive material merchandise items being sold, however Field confidence intervals are on a broader side asking for more data.
 
-Inbound shows a strong positive correletion between deal amount and account size, it is statistically significant. But Outbound and Field have weak to non-existent correlation. While Outbound and Field can steer us to bigger accounts, yet our current SQL-to-Opportunity-to-Close motion fails to capture the larger deal values from those larger accounts.
+Inbound shows a strong positive correletion between deal amount and account size, but Outbound and Field have weak to non-existent correlation. While Outbound and Field can steer us to bigger accounts, the current SQL-to-Opportunity-to-Close motion fails to capture the larger deal values from the larger accounts.
 
-We can observe that regardless of the channel the winrates are in significant decline from the account size tier1 [0, 201) to tier2 and tier3 ([201, 901) and [901.0, inf)). This shows the AE team needs to address improving its skills in closing bigger new accounts.
+We can also observe that regardless of the channel winrate declines for larger account size deals. This indicates the AE team needs to address improving its skills in closing bigger accounts.
 
 ### __Business Recommendations__  
 - Audit Outbound SQL-Opportunity-Closing process to identify the value leaks. Add SQL data to evaluate SQL->Opportunity conversions per channel. Sample and review manually of a cohort of high-size account outbound leads to reveal details of their journey. 
