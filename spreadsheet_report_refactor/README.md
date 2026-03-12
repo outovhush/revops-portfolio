@@ -1,5 +1,3 @@
-## B2B2C SaaS Performance & Revenue Operations Report
-
 ## Background
 This project refactors legacy spreadsheet-based reporting into a scalable analytics solution using Tableau for a B2B2C SaaS company. The business partners with global telecommunications providers to deliver its product to end-users. The objective was to replace static spreadsheets with interactive visualizations that track partnership performance, end-user adoption (penetration) within the subscriber bases, recurring revenue, and operational efficiency across the customer lifecycle.
 
