@@ -27,9 +27,9 @@ __Results: [E2E GTM Process map](https://github.com/outovhush/revops-data-portfo
 
 #### 👉 Design of field event demand generation process
 
-__Goal:__ Share a hi-level diagram of the proposed field event process with stakeholders for approval. Include a detailed process map to support implementation and team onboarding. 
+__Goal:__ Share a high level diagram of the proposed field event process with stakeholders for approval. Include a detailed process map to support implementation and onboarding. 
 
-__Results: [Field leadgen at hi-level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg), and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
+__Results: [Field leadgen at high level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg), and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
 
 ## Revenue Modeling and Capacity Planning
 
