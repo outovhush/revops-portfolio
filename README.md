@@ -68,7 +68,7 @@ __Results: [Analysis report](swag_23_pipeline_correlations/README.md)__
 
 __Goal:__  Estimate the historical effectiveness of two CTA strategies for a B2B funnel: does Trial or Demo  convert better?
 
-__Skills:__ Data exploration and cleaning, Statistics, Data Visualization
+__Skills:__ Data Exploration and Cleaning, Statistics, Data Visualization
 
 __Results: [Analysis report](trial_or_demo_conversion/README.md)__
 
@@ -87,34 +87,23 @@ __Goal:__ Refactor legacy spreadsheet-based Performance & Revenue Operations rep
 
 __Skills :__ Data Exploration and Analysis, Domain Specific Metrics, Python/Pandas, Tableau
 
-__Results: [B2B2C Performance & Revenue Operations Report](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
+__Results: [Performance & Revenue Operations Report](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
 
 ## Data Quality and Hygiene
 
-#### 👉 Data quality quick check
-
-Suppose you combine manual data entry with a custom data model that is not fully supported by your CRM. Entry errors become likely, but automated entry validation is not an option at this stage. You'd want a fast check to estimate extent of errors in the database.
+#### 👉 Data quality audit of core company database
      
-__Goal:__ Provide significant estimate for the extent of data errors in the customer account CRM database.
+__Goal:__ Provide reliable estimate for the extent of data errors in the customer account database implemented in CRM.
 
-__Steps:__
-- figure out sample size given CLT limitations for binomial
-- set up the observations and get the random sample
-- check the sample manually collecting observations
-- calculate sample means and confidence intervals
+__Skills:__ Statistics, Analytical Thinking, Google Sheets
 
-__Skills:__ Statistics, analytical thinking, Google sheets
+__Results: [Report](https://github.com/outovhush/revops-data-portfolio/blob/main/account_db_data_quality_check/README.md)__
 
-__Results: [Google Sheet report](https://docs.google.com/spreadsheets/d/107Ku2k5vmR8ulyRyZNqTPoGAuRe9W2vTZqMGrSvtl5c/edit?gid=1064755575#gid=1064755575)__
+#### 👉 Visualization of data errors in the company database
 
+__Goal:__ Visualize inconsistencies in the account data that are critical for proper revenue and deal reporting; enable manual audit and correction.
 
-#### 👉 Visualized data errors in the account db (CRM data)
-
-__Goal:__ Visualize inconsistencies in the account data that are critical for proper revenue and deal reporting; enable further manual checks and corrections
-
-__Skills:__ Data cleaning, data analysis, data visualization
-
-__Tech:__ Python, Pandas, Matplotlib
+__Skills:__ Data Analysis and Cleaning, Data Visualization, Python/Pandas, Matplotlib
 
 __Code: [Example notebook](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_check%20deals%20source.ipynb)__
 
