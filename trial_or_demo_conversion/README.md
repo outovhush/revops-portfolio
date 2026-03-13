@@ -5,7 +5,7 @@ This analysis evaluates the effectiveness of two primary Call-to-Action strategi
 Lead-to-Customer Conversion Rate, Absolute and Relative Conversion Lift, Confidence Intervals.
 
 ## Executive Summary
-Our analysis answered a common pipeline question: do prospect customers convert at a higher rate when their first interaction is a free trial or a demo? The data reveals that companies initiating a free trial convert at 13.16%, compared to 11.05% for those starting with a demo. This 2.1% absolute lift represents a nearly 19% relative increase in conversion likelihood. While the statistical significance sits just outside the strict 95% confidence interval (there is 7.24% chance that the observed difference is just due to random luck), the substantial business upside - a 19% boost in customer acquisition - strongly supports prioritizing the free-trial funnel in top-of-funnel marketing efforts.
+The data reveals that companies initiating a free trial convert at 13.16%, compared to 11.05% for those starting with a demo. This 2.1% absolute lift represents a nearly 19% relative increase in conversion likelihood. While the statistical significance sits just outside the strict 95% confidence interval (there is 7.24% chance that the observed difference is just due to random luck), the substantial business upside - a 19% boost in customer acquisition - strongly supports prioritizing the free-trial funnel in top-of-funnel marketing efforts.
 
 ## Business Recommendations:
 - __Prioritize Trial CTAs.__ Shift top-of-funnel website design and marketing spend to heavily feature the Free Trial CTA, as it demonstrates a stronger pull to closed-won revenue.
