@@ -2,9 +2,10 @@
 
 The reviewed pipeline was created up in 2023 upon the roll-out of the updated GTM process early that year. It features one-off B2B sales of physical goods. Unlike many subscription products, there is no customer lock-in; repeat purchases depend entirely on ongoing customer loyalty. The company uses a one-meeting AE process for new sales-qualified leads (SQLs), with the BANT qualification decision to be made right after the first meeting.
 
-### __Note on the data__ 
-
-The initial dataset contains 934 CRM deals records created between 2023-02-10 and 2024-01-30 (the dataset cut-off date). Key limitations include significant data hygiene issues, e.g. 18% missing industry data, manually rounded headcount estimates, significant noise in separation between the new customer and the repeat purchases deals, and presence of extreme outliers in deal amounts and account headcounts. Confidence intervals for key metrics were estimated at .95, non-parametric methods such as Spearman's correlation were used in addition to linear methods to evaluate the relationships.
+### Metrics reviewed: 
+- Pipeline Volume by Deal Source.
+- Win Rate by Volume, Median Deal Cycles.
+- Account (Company) Size measured by Headcount.
 
 ## __Executive Summary__ 
 
@@ -25,14 +26,14 @@ We can also observe that regardless of the channel winrate declines for larger a
 - Enforce 1:1 FirstDeal-to-Company architecture; implement CRM validation rules to prevent multiple "first deals" from being attached to a single company account.
 - Automate data enrichment integrating firmographic providers (e.g., ZoomInfo, Clearbit, Linkedin scraping API’s) to eliminate the 18% missing industry data and replace manually rounded headcount numbers with more accurate data.
 
-### Business Metrics 
-- Pipeline Volume, by Deal Source and Quarter.
-- Win Rate by Volume, Median Deal Cycles.
-- Account Size measured by company headcount.
+### __Note on the data__ 
+
+The initial dataset contains 934 CRM deals records created between 2023-02-10 and 2024-01-30 (the dataset cut-off date). Key limitations include significant data hygiene issues, e.g. 18% missing industry data, manually rounded headcount estimates, significant noise in separation between the new customer and the repeat purchases deals, and presence of extreme outliers in deal amounts and account headcounts. Confidence intervals for key metrics were estimated at .95, non-parametric methods such as Spearman's correlation were used in addition to linear methods to evaluate the relationships.
+
 
 ## Data exploration and error correction
 
-#### 1. There 50 accounts with two or more 1st Deals linked to each, that's an error 
+#### 1. There are 50 Accounts with two or more 1st Deals linked, and that's an error 
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/swag_23_pipeline_correlations/10_1st_deal_account_association.jpg" width=35% height=35%>
 
