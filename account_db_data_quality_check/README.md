@@ -24,13 +24,13 @@ The tables below outline the specific outcomes of the sample audit.
 
 #### 1. Overall Database Health & Composition are usable, though there is a room for improvement
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/account_db_data_quality_check/1_db_health_and_composition.jpg" width=70% height=70%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/account_db_data_quality_check/1_db_health_and_composition.jpg" width=100% height=100%>
 
 The assessment of the sample revealed that the majority of records are usable, though roughly 1 out of 8 records lack enough data to be actionable in the motion.
 
 #### 2. Headcount, Territory & Hierarchy are hardly satisfactory, while Account naming is ok  
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/account_db_data_quality_check/2_account_hierarchy_naming_and_headcount.jpg" width=70% height=70%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/account_db_data_quality_check/2_account_hierarchy_naming_and_headcount.jpg" width=100% height=100%>
 
 About a half of our records accurately reflect their geographic location compromising routing logic and cross-sell visibility.  While standard naming conventions for local Account are generally adhered to (72% accuracy), our Account and SE headcount data is deeply unreliable (48% and 30% accuracy). Parent-child mapping remains poor limiting strategic account management and ABM efforts.
 
