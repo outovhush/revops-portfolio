@@ -76,7 +76,7 @@ __Goal:__ Evaluate and benchmark historical lead generation channel performance 
 
 __Skills:__ Leadgen KPI's, Data analysis and Visualization, HubSpot API, Python/Pandas
 
-__Results: [Channel performance chart](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
+__Results: [Channel Performance Report](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
 #### 👉 Refactoring legacy spreadsheet report
 
@@ -95,7 +95,7 @@ __Goal:__ Provide reliable estimate for the extent of data errors in the custome
 
 __Skills:__ Statistics, Analytical Thinking, Google Sheets
 
-__Results: [Report](https://github.com/outovhush/revops-data-portfolio/blob/main/account_db_data_quality_check/README.md)__
+__Results: [Audit Findings](https://github.com/outovhush/revops-data-portfolio/blob/main/account_db_data_quality_check/README.md)__
 
 #### 👉 Showing object-linking errors in the CRM database
 
@@ -103,7 +103,7 @@ __Goal:__ Identify mismatches between accounts and deals, which are critical for
 
 __Skills:__ Data Analysis and Cleaning, Data Visualization, Python/Pandas, Matplotlib
 
-__Results: [image with clickable links in a standalone pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)__
+__Results: [Deal Attribution Audit](https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/README.md)__
 
 
 
