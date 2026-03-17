@@ -11,5 +11,4 @@ This analysis visualizes the chronological timeline of deals across individual c
 
 - Deploy Routine Audits: run this script on monhtly and quarterly basis to catch and correct attribution anomalies before month-end and quarter-end close.
 
-## [View the chart in pdf with links](deal_source_plot_Create_date.pdf)
-
+## [View the chart in pdf](deal_source_plot_Create_date.pdf)
