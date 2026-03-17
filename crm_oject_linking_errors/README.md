@@ -11,7 +11,5 @@ This analysis visualizes the chronological timeline of deals across individual c
 
 - Deploy Routine Audits: run this script on monhtly and quarterly basis to catch and correct attribution anomalies before month-end and quarter-end close.
 
-## Detailed Findings
-
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/deal_source_plot_Create_date.pdf" width=100% height=100%>
+## [View the chart in pdf with links](deal_source_plot_Create_date.pdf)
 
