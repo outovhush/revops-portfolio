@@ -103,8 +103,6 @@ __Goal:__ Identify mismatches between accounts and deals, which are critical for
 
 __Skills:__ Data Analysis and Cleaning, Data Visualization, Python/Pandas, Matplotlib
 
-__Code: [Example notebook](https://github.com/outovhush/revops-data-portfolio/blob/main/Example%20notebook_check%20deals%20source.ipynb)__
-
 __Results: [image with clickable links in a standalone pdf](https://github.com/outovhush/revops-data-portfolio/blob/main/deal_source_plot_Create_date.pdf)__
 
 
