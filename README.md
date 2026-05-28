@@ -12,9 +12,11 @@ Key Highlights:👇🏼
 * [Revenue Modeling and Capacity Planning](#revenue-modeling-and-capacity-planning)
 * [Data Analysis, Reporting and BI](#data-analysis-reporting-and-bi)
 * [Data Quality and Hygiene](#data-quality-and-hygiene) 
+* [AI and Agentic GTM Solutions](#ai-and-agentic-gtm-solutions)
 
 Thank you for reading! I hope these examples demonstrate the value I can bring on your team.
 
+&nbsp;
 ## Business Analysis and Process Modeling
 
 #### 👉 Concept design for end-2-end B2B GTM process
@@ -31,6 +33,7 @@ __Objective:__ Share a high level diagram of the proposed field event process wi
 
 __Results: [Field leadgen at high level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg), and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
 
+&nbsp;
 ## Revenue Modeling and Capacity Planning
 
 #### 👉 SaaS Revenue & Compensation Model
@@ -42,6 +45,7 @@ __Skills:__ Business and financial modeling, SaaS metrics, Compensation planning
 __Results: [Model summary with recommendations](revenue_modelling/README.md)__
    
 
+&nbsp;
 ## Data Analysis, Reporting and BI
 
 #### 👉 Ad-hoc analysis of the AE performance and lost opportunities
@@ -85,6 +89,7 @@ __Skills :__ Data Exploration and Analysis, Domain Specific Metrics, Python/Pand
 
 __Results: [Performance & Revenue Operations Report](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
 
+&nbsp;
 ## Data Quality and Hygiene
 
 #### 👉 Data quality audit of core company database
@@ -102,6 +107,9 @@ __Objective:__ Identify mismatches between accounts and deals, which are critica
 __Skills:__ Data Analysis and Cleaning, Data Visualization, Python/Pandas, Matplotlib
 
 __Results: [Deal Attribution Audit](https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/README.md)__
+
+&nbsp;
+## AI & Agentic GTM Solutions
 
 
 
