@@ -39,7 +39,7 @@ __Objective:__ Identify bottlenecks, validate unit economics, and create a data-
 
 __Skills:__ Business and financial modeling, SaaS metrics, Compensation planning, Excel/Google Sheets
 
-#### <ins>__[Model summary with recommendations](revenue_modelling/README.md)__</ins>
+<ins>__[Model summary with recommendations](revenue_modelling/README.md)__</ins>
    
 
 &nbsp;
