@@ -40,7 +40,7 @@ __Objective:__ Identify bottlenecks, validate unit economics, and create a data-
 
 __Skills:__ Business and financial modeling, SaaS metrics, Compensation planning, Excel/Google Sheets
 
-__Results: [Model summary with recommendations](revenue_modelling/README.md)__
+[Model summary with recommendations](revenue_modelling/README.md)__
    
 
 &nbsp;
@@ -52,7 +52,7 @@ __Objective:__ When operational dashboards can not provide sufficient detail, yo
 
 __Skills:__ Sales KPI's, Descriptive statistics, Data visualization, Analytical thinking
 
-__Results: [Analysis report](AE_adhoc_data_analysis_GR/README.md)__
+[The Analysis report](AE_adhoc_data_analysis_GR/README.md)__
 
 ### Exploring the sales pipeline with insights into channel performance
 
@@ -60,7 +60,7 @@ __Objective:__  Analyze new customer acquisition to understand channel performan
 
 __Skills:__ Data Analysis and Visualization, Statistics, Python/Pandas, Seaborn
 
-__Results: [Analysis report](swag_23_pipeline_correlations/README.md)__
+[The report](swag_23_pipeline_correlations/README.md)__
 
 ### Trial or Demo?
 
@@ -68,7 +68,7 @@ __Objective:__  Estimate the historical effectiveness of two CTA strategies for 
 
 __Skills:__ Data Exploration and Cleaning, Statistics, Data Visualization
 
-__Results: [Analysis report](trial_or_demo_conversion/README.md)__
+[The Analysis report](trial_or_demo_conversion/README.md)__
 
 ### Ad-hoc reporting outside CRM
    
@@ -76,7 +76,7 @@ __Objective:__ Evaluate and benchmark historical lead generation channel perform
 
 __Skills:__ Leadgen KPI's, Data analysis and Visualization, HubSpot API, Python/Pandas
 
-__Results: [Channel Performance Report](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
+[Channel Performance Report](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
 ### Refactoring legacy spreadsheet report
 
@@ -85,7 +85,7 @@ __Objective:__ Refactor legacy spreadsheet-based Performance & Revenue Operation
 
 __Skills :__ Data Exploration and Analysis, Domain Specific Metrics, Python/Pandas, Tableau
 
-__Results: [Performance & Revenue Operations Report](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
+[Performance & Revenue Operations Report](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
 
 &nbsp;
 ## 👉 Data Quality and Hygiene
