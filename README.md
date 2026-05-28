@@ -44,7 +44,7 @@ __Results: [Model summary with recommendations](revenue_modelling/README.md)__
    
 
 &nbsp;
-## 👉 Data Analysis Reporting and BI
+## 👉 Data Analysis, Reporting and BI
 
 ### Ad-hoc analysis of the AE performance and lost opportunities
 
