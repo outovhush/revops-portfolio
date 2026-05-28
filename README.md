@@ -8,10 +8,10 @@ This portfolio shows my ability to drive real impact at every stage of the reven
 
 Key Highlights:👇🏼
 
-* [Business Analysis, Process and Revenue Modeling](#business-analysis-process-and-revenue-modeling)
-* [Data Analysis, Reporting and BI](#data-analysis-reporting-and-bi)
-* [Data Quality and Hygiene](#data-quality-and-hygiene) 
-* [AI and Agentic GTM Solutions](#ai-and-agentic-gtm-solutions)
+* [Business Analysis, Process and Revenue Modeling](#-business-analysis-process-and-revenue-modeling)
+* [Data Analysis, Reporting and BI](#-data-analysis-reporting-and-bi)
+* [Data Quality and Hygiene](#-data-quality-and-hygiene) 
+* [AI and Agentic GTM Solutions](#-ai-and-agentic-gtm-solutions)
 
 Thank you for reading! I hope these examples demonstrate the value I can bring on your team.
 
@@ -107,7 +107,7 @@ __Skills:__ Data Analysis and Cleaning, Data Visualization, Python/Pandas, Matpl
 __Results: [Deal Attribution Audit](https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/README.md)__
 
 &nbsp;
-## AI and Agentic GTM Solutions
+## 👉 AI and Agentic GTM Solutions
 
 
 
