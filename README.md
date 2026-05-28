@@ -24,14 +24,13 @@ __Objective:__ Give stakeholders a high-level summary of the proposed B2B go-to-
 
 __Skills:__ B2B sales processes, Business analysis, Requirements gathering, Process design, and Visualization.
 
-__Results: [E2E GTM Process map](https://github.com/outovhush/revops-data-portfolio/blob/main/GTM_process_hi-level_map.jpg), and [AE process in more detail](https://github.com/outovhush/revops-data-portfolio/blob/main/AE_process_detail.jpg)__       
+__Results: [E2E GTM Process map](https://github.com/outovhush/revops-data-portfolio/blob/main/GTM_process_hi-level_map.jpg) and [AE process in more detail](https://github.com/outovhush/revops-data-portfolio/blob/main/AE_process_detail.jpg)__       
 
 ### Design of field event demand generation process
 
 __Objective:__ Share a high level diagram of the proposed field event process with stakeholders for approval. Include a detailed process map to support CRM implementation and team onboarding. 
 
-__Results: [Field leadgen at high level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg), and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
-
+__Results: [Field leadgen at high level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg) and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
 
 
 ### SaaS Revenue & Compensation Model
@@ -40,7 +39,7 @@ __Objective:__ Identify bottlenecks, validate unit economics, and create a data-
 
 __Skills:__ Business and financial modeling, SaaS metrics, Compensation planning, Excel/Google Sheets
 
-[Model summary with recommendations](revenue_modelling/README.md)__
+[Model summary with recommendations](revenue_modelling/README.md)
    
 
 &nbsp;
@@ -52,7 +51,7 @@ __Objective:__ When operational dashboards can not provide sufficient detail, yo
 
 __Skills:__ Sales KPI's, Descriptive statistics, Data visualization, Analytical thinking
 
-[The Analysis report](AE_adhoc_data_analysis_GR/README.md)__
+[The Analysis report](AE_adhoc_data_analysis_GR/README.md)
 
 ### Exploring the sales pipeline with insights into channel performance
 
@@ -60,7 +59,7 @@ __Objective:__  Analyze new customer acquisition to understand channel performan
 
 __Skills:__ Data Analysis and Visualization, Statistics, Python/Pandas, Seaborn
 
-[The report](swag_23_pipeline_correlations/README.md)__
+[The report](swag_23_pipeline_correlations/README.md)
 
 ### Trial or Demo?
 
@@ -68,7 +67,7 @@ __Objective:__  Estimate the historical effectiveness of two CTA strategies for 
 
 __Skills:__ Data Exploration and Cleaning, Statistics, Data Visualization
 
-[The Analysis report](trial_or_demo_conversion/README.md)__
+[The Analysis report](trial_or_demo_conversion/README.md)
 
 ### Ad-hoc reporting outside CRM
    
@@ -76,7 +75,7 @@ __Objective:__ Evaluate and benchmark historical lead generation channel perform
 
 __Skills:__ Leadgen KPI's, Data analysis and Visualization, HubSpot API, Python/Pandas
 
-[Channel Performance Report](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
+[Channel Performance Report](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)
 
 ### Refactoring legacy spreadsheet report
 
@@ -85,7 +84,7 @@ __Objective:__ Refactor legacy spreadsheet-based Performance & Revenue Operation
 
 __Skills :__ Data Exploration and Analysis, Domain Specific Metrics, Python/Pandas, Tableau
 
-[Performance & Revenue Operations Report](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
+[Performance & Revenue Operations Report](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)
 
 &nbsp;
 ## 👉 Data Quality and Hygiene
