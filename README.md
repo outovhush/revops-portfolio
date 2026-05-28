@@ -109,7 +109,8 @@ __Skills:__ Data Analysis and Cleaning, Data Visualization, Python/Pandas, Matpl
 __Results: [Deal Attribution Audit](https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/README.md)__
 
 &nbsp;
-## AI & Agentic GTM Solutions
+## AI and Agentic GTM Solutions
+
 
 
 
