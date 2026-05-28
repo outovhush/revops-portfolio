@@ -39,7 +39,7 @@ __Objective:__ Identify bottlenecks, validate unit economics, and create a data-
 
 __Skills:__ Business and financial modeling, SaaS metrics, Compensation planning, Excel/Google Sheets
 
-[Model summary with recommendations](revenue_modelling/README.md)
+### [Model summary with recommendations](revenue_modelling/README.md)
    
 
 &nbsp;
@@ -95,7 +95,7 @@ __Objective:__ Provide reliable estimate for the extent of data errors in the cu
 
 __Skills:__ Statistics, Analytical Thinking, Google Sheets
 
-__Results: [Audit Findings](https://github.com/outovhush/revops-data-portfolio/blob/main/account_db_data_quality_check/README.md)__
+[Audit Findings](https://github.com/outovhush/revops-data-portfolio/blob/main/account_db_data_quality_check/README.md)
 
 ### Showing object-linking errors in the CRM database
 
