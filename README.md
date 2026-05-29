@@ -108,6 +108,12 @@ __Results: [Deal Attribution Audit](https://github.com/outovhush/revops-portfoli
 &nbsp;
 ## 👉 AI and Agentic GTM Solutions
 
+### Trigger-Based AI Prospecting Agent
+     
+__Objective:__ Shift from a volume-based outreach model to a highly targeted, intent-driven outbound sales motion that drmatically increases quality replies and allows sales representatives to focus on high-value human interactions.
 
+__Skills:__ LLM's, Agentic solutions, API's, Python
+
+__[Agent implementation write-up](https://github.com/outovhush/revops-portfolio/blob/main/trigger_based_prospecting_agent/README.md)__
 
 
