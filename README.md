@@ -110,7 +110,7 @@ __Results: [Deal Attribution Audit](https://github.com/outovhush/revops-portfoli
 
 ### Trigger-Based AI Prospecting Agent
      
-__Objective:__ Shift from a volume-based outreach model to a highly targeted, intent-driven outbound sales motion that drmatically increases quality replies and allows sales representatives to focus on high-value human interactions.
+__Objective:__ Shift from a volume-based outreach model to a highly targeted, intent-driven outbound sales motion that sharply raises the quality replies and allows sales representatives to focus on high-value human interactions.
 
 __Skills:__ LLM's, Agentic solutions, API's, Python
 

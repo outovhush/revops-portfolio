@@ -1,11 +1,9 @@
 # Trigger-Based AI Prospecting Agent
 
 ## Executive Summary
-Reaching out to the right people at the right time has been a baseline challenge for any B2B outbound efforts. With the "interested" reply rates in a single percent region, the bruteforce approach of scaling the outreach volume to deliver more MQL's is hardly an option in 2026.         
+Reaching out to the right people at the right time has been a baseline challenge for any B2B outbound efforts. With "interested" reply rates in a single percent digits, simply sending more outreach messsages to generate additional MQLs is no longer a practical approach.         
 
-By automatically scanning the web for early intent signals - such as key leadership hires, business expansion, or strategic infrastructure shifts - the agent identifies the company's buying intent events. It then automatically maps these events to the right decision-makers in target company, scoring and delivering highly contextual, ready-to-engage prospects. 
-
-The business impact is a shift from a volume-based outreach model to a highly targeted, intent-driven sales motion that increases the good replies and allows sales representatives to focus on high-value human interactions.
+By automatically scanning the web for early intent signals - such as key leadership hires, business expansion, or strategic infrastructure shifts - the agent identifies the company's buying intent events. It then automatically maps these events to the right decision-makers in target company, scoring and delivering highly contextual, ready-to-engage prospects.
 
 ## Target Market & Persona Strategy
 The initial deployment focuses on a **pure-play online retail** Ideal Customer Profile (ICP), targeting four key decision-maker personas to ensure precision messaging:
@@ -15,9 +13,10 @@ The initial deployment focuses on a **pure-play online retail** Ideal Customer P
 *   **Head of Marketing Analytics** (e.g., Head of BI, Data & Analytics Lead)
 
 ## Agent Architecture
-The workflow relies on a multi-stage process integrating deep-search AI, CRM data enrichment, and LLM-based scoring to maximize relevance while optimizing operational costs.
+The workflow relies on a multi-stage process integrating deep-search AI, prospects data enrichment, and LLM-based scoring to maximize relevance while optimizing API costs.
 
-![Principal Agent Architecture Diagram](Sourcing_agent_2.jpeg)
+Principal Agent Architecture Diagram:
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/trigger_based_prospecting_agent/Sourcing_agent_2.jpeg" width=70% height=70%>
 
 ### 1. Contextual Signal Detection
 Rather than relying on generic public APIs for predefined firmographic events (e.g., funding rounds), this agent utilizes **Perplexity Pro** for deep-web search capabilities. This allows the detection of highly contextual, early-stage buying intent signals tailored to specific value propositions:
@@ -41,11 +40,5 @@ The top-fit prospects are evaluated against the detected company signals using `
 ## Output & Routing
 The finalized output delivers top-scored Prospect-vs-Signal pairs, complete with the LLM's matching reasoning. This data is routed to a structured JSON payload or Google Sheets, presenting SDRs with highly contextualized leads ready for engagement. 
 
-## Future Roadmap & Risk Mitigation
-The primary risk with automated prospecting is generic or hallucinated outreach. To mitigate this, the system incorporates a **Human-in-the-Loop (HITL)** safeguard, ensuring SDRs review the AI's recommendations and reasoning before any messaging is sent.
-
-**Next Steps for V2:**
-*   **Refine Signal Detection:** Deploy the Perplexity Pro module into production, optimize prompts, and introduce an automated signal validation layer.
-*   **AI Copywriting Hook:** Introduce an LLM-driven copywriting module to generate personalized cold outreach hooks natively based on the matched signals.
-*   **End-to-End CRM Integration:** Connect the sourcing flows and data storage directly into HubSpot.
-*   **Machine Learning Feedback Loops:** Train the scoring models to dynamically adjust weighting factors based on real-world commercial outcomes.
+## Risk Mitigation
+The primary risk with automated prospecting is generic or hallucinated outreach. To mitigate this, the system incorporates a **Human-in-the-Loop** safeguard, ensuring SDRs review the AI's recommendations and reasoning before any messaging is sent.
