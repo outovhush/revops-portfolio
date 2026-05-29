@@ -16,13 +16,13 @@ The initial deployment focuses on a **pure-play online retail** Ideal Customer P
 The workflow relies on a multi-stage process integrating deep-search AI, prospects data enrichment, and LLM-based scoring to maximize relevance while optimizing API costs.
 
 Principal Agent Architecture Diagram:
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/trigger_based_prospecting_agent/Sourcing_agent_2.jpeg" width=70% height=70%>
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/trigger_based_prospecting_agent/Sourcing_agent_2.jpg" width=70% height=70%>
 
 ### 1. Contextual Signal Detection
-Rather than relying on generic public APIs for predefined firmographic events (e.g., funding rounds), this agent utilizes **Perplexity Pro** for deep-web search capabilities. This allows the detection of highly contextual, early-stage buying intent signals tailored to specific value propositions:
+Rather than relying on generic public APIs for predefined firmographic events (e.g., funding rounds), this agent utilizes **Perplexity Pro** for deep-web search capabilities. This allows the detection of highly contextual, early-stage buying intent signals tailored to specific product's value propositions:
 *   Active hiring for performance marketing, e-commerce, or analytics roles.
 *   Active expansion of e-commerce operations.
-*   A company's strategic push toward data-driven methodologies or establishing a "single source of truth" (SSOT).
+*   A company's strategic push toward data-driven methodologies or establishing a "single source of truth".
 
 ### 2. Multi-Stage Prospecting & Enrichment
 To prioritize quality over volume, the prospect sourcing flow is divided into three cost-effective steps:
