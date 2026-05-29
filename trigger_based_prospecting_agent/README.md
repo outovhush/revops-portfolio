@@ -15,7 +15,7 @@ The initial deployment focuses on a **pure-play online retail** Ideal Customer P
 ## Agent Architecture
 The workflow relies on a multi-stage process integrating deep-search AI, prospects data enrichment, and LLM-based scoring to maximize relevance while optimizing API costs.
 
-Principal Agent Architecture Diagram:
+Principal Agent Architecture and Flow:
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/trigger_based_prospecting_agent/sourcing_agent_2.jpg" width=70% height=70%>
 
 ### 1. Contextual Signal Detection
