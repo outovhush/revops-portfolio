@@ -5,7 +5,7 @@ Reaching out to the right people at the right time has been a baseline challenge
 
 By automatically scanning the web for early intent signals - such as key leadership hires, business expansion, or strategic infrastructure shifts - the agent identifies the company's buying intent events. It then automatically maps these events to the right decision-makers in target company, scoring and delivering highly contextual, ready-to-engage prospects.
 
-## Target Market & Persona Strategy
+## Target Market & Persona
 The initial deployment focuses on a **pure-play online retail** Ideal Customer Profile (ICP), targeting four key decision-maker personas to ensure precision messaging:
 *   **VP Marketing** (e.g., CMO, VP Growth)
 *   **Head of Performance Marketing** (e.g., Head of Paid Media, User Acquisition Lead)
@@ -38,7 +38,7 @@ The top-fit prospects are evaluated against the detected company signals using `
 *   **Signal Strength (20%):** Evaluates the definitive nature of the buying intent.
 
 ## Output & Routing
-The finalized output delivers top-scored Prospect-vs-Signal pairs, complete with the LLM's matching reasoning. This data is routed to a structured JSON payload or Google Sheets, presenting SDRs with highly contextualized leads ready for engagement. 
+The finalized output delivers top-scored Prospect-vs-Signal pairs, complete with the LLM's matching reasoning. This data is routed to a structured CRM-ready JSON payload, presenting highly contextualized leads ready for outreach and sales engagement. 
 
 ## Risk Mitigation
 The primary risk with automated prospecting is generic or hallucinated outreach. To mitigate this, the system incorporates a **Human-in-the-Loop** safeguard, ensuring SDRs review the AI's recommendations and reasoning before any messaging is sent.
