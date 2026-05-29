@@ -18,8 +18,6 @@ The workflow relies on a multi-stage process integrating deep-search AI, prospec
 Principal Agent Architecture and Flow:
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/trigger_based_prospecting_agent/sourcing_agent_2.jpg">
 
-<img src="https://github.com/outovhush/revops-portfolio/blob/main/trigger_based_prospecting_agent/sourcing_agent_2.jpg">
-
 ### 1. Contextual Signal Detection
 Rather than relying on generic public APIs for predefined firmographic events (e.g., funding rounds), this agent utilizes **Perplexity Pro** for deep-web search capabilities. This allows the detection of highly contextual, early-stage buying intent signals tailored to specific product's value propositions:
 *   Active hiring for performance marketing, e-commerce, or analytics roles.
