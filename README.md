@@ -103,7 +103,7 @@ __Objective:__ Identify mismatches between accounts and deals, which are critica
 
 __Skills:__ Data Analysis and Cleaning, Data Visualization, Python/Pandas, Matplotlib
 
-__Results: [Deal Attribution Audit](https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/README.md)__
+__[Deal Attribution Audit](https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/README.md)__
 
 &nbsp;
 ## 👉 AI and Agentic GTM Solutions

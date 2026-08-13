@@ -18,7 +18,7 @@ __Sales Cycle (Months):__ The time required to sign up a partner.
 __Sign-to-Launch (Months):__ The operational timeline from contract sign-up to the product going live.   
 
 ## The Data Story
-Full version of the Story is best viewed in Tableau Public with the interactive controls; featuring here the selected snapshots for demo purposes.
+Full version of the Story is best viewed in [Tableau Public](https://public.tableau.com/views/Spreadsheetreportrefactor/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) using the interactive controls; featuring here the selected snapshots for demo purposes.
 
 ### Launch Pipeline Overview
 Showing basic numbers for all Accounts that have been signed up -  by the Launch status. Av penetration for the partners not yet launched should be zero, suggesting some sample data noise.  
@@ -37,13 +37,13 @@ Showing only Launched Accounts, with the circle size proportional to the Partner
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/account_age_vs_penetration_rep_performance.png">
 
 ### Penetration Sources
-Showing portfolio for CS Rep5.  
-Showing 2025 per partner actuals in continuity with 2025 forecast.  
+Showing portfolio for CS Rep5.   
+This timeseries chart allows quick visual exploration of the user base penetration dymanics per Partner and per CS Rep. It shows how BAU amd opportunity drivers contribute towards the total penetration, and how 2025 actuals (blue line) merge into 2025 forecast (orange line) making data anomalies easy-to-spot.       
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/rep5_penetration_sources.png">
 
 
 ### Key metrics: MRPU, Penetration and Revenue
-This timeseries chart let us quickly spot anomalies in MRPU, penetration and revenue numbers, revenue composition and the numbers continuity for actuals (blue) into forecast (orange).  
+This timeseries chart let us quickly spot anomalies in MRPU, penetration and revenue numbers, revenue drivers and the continuity of the actuals numbers (blue) into the forecast (orange).  
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/mrpu_penetration_revenue.png">
 
