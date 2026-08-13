@@ -51,7 +51,7 @@ __Objective:__ When operational dashboards can not provide sufficient detail, yo
 
 __Skills:__ Sales KPI's, Descriptive statistics, Data visualization, Analytical thinking
 
-[The Analysis report](AE_adhoc_data_analysis_GR/README.md)
+__[Click here for the Report](AE_adhoc_data_analysis_GR/README.md)__
 
 ### Exploring the sales pipeline with insights into channel performance
 
@@ -59,7 +59,7 @@ __Objective:__  Analyze new customer acquisition to understand channel performan
 
 __Skills:__ Data Analysis and Visualization, Statistics, Python/Pandas, Seaborn
 
-[The report](swag_23_pipeline_correlations/README.md)
+__[The Report Summary](swag_23_pipeline_correlations/README.md)__
 
 ### Trial or Demo?
 
@@ -67,7 +67,7 @@ __Objective:__  Estimate the historical effectiveness of two CTA strategies for 
 
 __Skills:__ Data Exploration and Cleaning, Statistics, Data Visualization
 
-[The Analysis report](trial_or_demo_conversion/README.md)
+__[Click here to view the Report](trial_or_demo_conversion/README.md)__
 
 ### Ad-hoc reporting outside CRM
    
@@ -75,16 +75,16 @@ __Objective:__ Evaluate and benchmark historical lead generation channel perform
 
 __Skills:__ Leadgen KPI's, Data analysis and Visualization, HubSpot API, Python/Pandas
 
-[Channel Performance Report](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)
+__[Channel Performance Report](https://github.com/outovhush/revops-data-portfolio/blob/main/AS%20pipe%20-%20annon_channels%20history%20data.jpg)__
 
 ### Refactoring legacy spreadsheet report
 
-__Objective:__ Refactor legacy spreadsheet-based Performance & Revenue Operations reporting
- into a modern scalable solution using Tableau for a B2B2C SaaS company; draft visual story to report on the dedicated set of metrics.   
+__Objective:__ Refactor legacy spreadsheet-based Performance & Operations reporting
+ into a modern scalable solution using Tableau for a B2B2C SaaS company; draft visual story to report on the chosen set of metrics.   
 
 __Skills :__ Data Exploration and Analysis, Domain Specific Metrics, Python/Pandas, Tableau
 
-[Performance & Revenue Operations Report](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)
+__[Refactored: Summary and the Data Story](https://github.com/outovhush/revops-data-portfolio/blob/main/spreadsheet_report_refactor/README.md)__
 
 &nbsp;
 ## 👉 Data Quality and Hygiene
