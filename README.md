@@ -30,7 +30,7 @@ __Results: [E2E GTM Process map](https://github.com/outovhush/revops-data-portfo
 
 __Objective:__ Share a high level diagram of the proposed field event process with stakeholders for approval. Include a detailed process map to support CRM implementation and team onboarding. 
 
-__Results: [Field leadgen at high level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg) and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
+__Results: [Field Lead Generation High-Level](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_hi-level.jpg) and [Detailed process diagram](https://github.com/outovhush/revops-data-portfolio/blob/main/Field_lead_gen_detailed_diag.jpg)__ 
 
 
 ### SaaS Revenue & Compensation Model
@@ -103,7 +103,7 @@ __Objective:__ Identify mismatches between accounts and deals, which are critica
 
 __Skills:__ Data Analysis and Cleaning, Data Visualization, Python/Pandas, Matplotlib
 
-__[Deal Linking Vizual](https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/README.md)__
+__[Deal Linking Visually Explored](https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/README.md)__
 
 &nbsp;
 ## 👉 AI and Agentic GTM Solutions
