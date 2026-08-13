@@ -18,22 +18,22 @@ __Sales Cycle (Months):__ The time required to sign up a partner.
 __Sign-to-Launch (Months):__ The operational timeline from contract sign-up to the product going live.   
 
 ## The Data Story
-Full version of the Story is best viewed in Tableau Public with the interractive controls; featuring here the selected snapshots for demo purposes.
+Full version of the Story is best viewed in Tableau Public with the interactive controls; featuring here the selected snapshots for demo purposes.
 
 ### Launch Pipeline Overview
-Showing basic numbers for all Accounts that have been signed up.  
+Showing basic numbers for all Accounts that have been signed up -  by the Launch status.  
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/pipeline_summary.png">  
 
 ### Pipeline breakdown - by Partner location, by the Launch event
 
-Green/Grey - Accounts Launched vs. All Signed (yet to Launch).  
+Green/Grey - Accounts Launched vs. All Signed-Up (yet to launch).  
 Showing all CS Reps.  
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/Pipeline_breakdown_geo.png">
 
 ### CS Rep Performance trends - Account Age vs. Penetration
 
 CS Reps are shown in color, with their respective trend lines.  
-Showing only launched Accounts, with the circle size proportional to Partner Subscriber base.
+Showing only Launched Accounts, with the circle size proportional to the Partner Subscriber Base.
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/account_age_vs_penetration_rep_performance.png">
 
 ### Penetration Sources
