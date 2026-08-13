@@ -20,25 +20,21 @@ __Sign-to-Launch (Months):__ The operational timeline from contract sign-up to t
 ## The Data Story
 Full version of the Story is best viewed in Tableau Public with the interractive controls; featuring here the selected snapshots for demo purposes.
 
-### Pipeline Overview
-
-
+### Launch Pipeline Overview
+Showing basic numbers for all Accounts that have been signed up.  
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/pipeline_summary.png">  
 
 ### Pipeline breakdown - by Partner location, by the Launch event
 
-Green/Grey - Accounts Launched vs. All Accounts Signed (yet to Launch).  
-Showing All CS Reps.  
+Green/Grey - Accounts Launched vs. All Signed (yet to Launch).  
+Showing all CS Reps.  
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/Pipeline_breakdown_geo.png">
 
 ### CS Rep Performance trends - Account Age vs. Penetration
 
-CS CS Reps are shown in color, with the respective trend lines.  
-Showing only launched Accounts.  
+CS Reps are shown in color, with their respective trend lines.  
+Showing only launched Accounts, with the circle size proportional to Partner Subscriber base.
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/account_age_vs_penetration_rep_performance.png">
-
-### Sales & Integration Cycles
-
-### Customer Penetration Heatmap
 
 ### Penetration Sources
 Showing portfolio for CS Rep5.  
