@@ -91,19 +91,19 @@ __[Refactored: Summary and the Data Story](https://github.com/outovhush/revops-d
 
 ### Data quality audit of core company database
      
-__Objective:__ Provide reliable estimate for the extent of data errors in the customer account database implemented in CRM.
+__Objective:__ Provide reliable estimate for the extent of data errors in the customer account database in CRM.
 
 __Skills:__ Statistics, Analytical Thinking, Google Sheets
 
-[Audit Findings](https://github.com/outovhush/revops-data-portfolio/blob/main/account_db_data_quality_check/README.md)
+__[Audit Findings](https://github.com/outovhush/revops-data-portfolio/blob/main/account_db_data_quality_check/README.md)__
 
 ### Showing object-linking errors in the CRM database
 
-__Objective:__ Identify mismatches between accounts and deals, which are critical for correct revenue and deal reporting. Support manual audits and fixes.
+__Objective:__ Identify mismatches between accounts and deals, which are critical for correct revenue and deal reporting. Support further manual audit and fixes.
 
 __Skills:__ Data Analysis and Cleaning, Data Visualization, Python/Pandas, Matplotlib
 
-__[Deal Attribution Audit](https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/README.md)__
+__[Deal Linking Vizual](https://github.com/outovhush/revops-portfolio/blob/main/crm_oject_linking_errors/README.md)__
 
 &nbsp;
 ## 👉 AI and Agentic GTM Solutions
