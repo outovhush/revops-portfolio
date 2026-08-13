@@ -20,32 +20,36 @@ __Sign-to-Launch (Months):__ The operational timeline from contract sign-up to t
 ## The Data Story
 Full version of the Story is best viewed in Tableau Public with the interractive controls; featuring here the selected snapshots for demo purposes.
 
-### Key Account Overview
+### Pipeline Overview
 
-### Pipeline breakdown - by Partner location, by the core Stage
 
-Green/Grey - Accounts Launched vs. Accounts signed (yet to launch).  
+
+### Pipeline breakdown - by Partner location, by the Launch event
+
+Green/Grey - Accounts Launched vs. All Accounts Signed (yet to Launch).  
 Showing All CS Reps.  
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/Pipeline_breakdown_geo.png">
 
 ### CS Rep Performance trends - Account Age vs. Penetration
 
-CS Reps are shown in color, with the respective trend lines.  
+CS CS Reps are shown in color, with the respective trend lines.  
 Showing only launched Accounts.  
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/account_age_vs_penetration_rep_performance.png">
 
-### 3. Sales & Integration Cycles
+### Sales & Integration Cycles
 
-### 4. Customer Penetration Heatmap
+### Customer Penetration Heatmap
 
-### 5. Penetration Sources
-Showing portfolio for Rep5.  
+### Penetration Sources
+Showing portfolio for CS Rep5.  
 Showing 2025 per partner actuals in continuity with 2025 forecast.  
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/rep5_penetration_sources.png">
 
 
-### 6. Key metrics: MRPU, Penetration and Revenue
+### Key metrics: MRPU, Penetration and Revenue
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/mrpu_penetration_revenue.png">
 
-### 7. Aggregated Penetration & MoM Growth
+### Aggregate Penetration - Actuals vs Forecast
+Shqoing a spike in aggregate penetration forecast April on March. Need to dive in to clarify the driving factor vs forecasting error.  
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/spike_in_penetration_forecast.png">
