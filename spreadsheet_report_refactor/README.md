@@ -21,10 +21,10 @@ __Sign-to-Launch (Months):__ The operational timeline from contract sign-up to t
 Full version of the Story is best viewed in Tableau Public with the interactive controls; featuring here the selected snapshots for demo purposes.
 
 ### Launch Pipeline Overview
-Showing basic numbers for all Accounts that have been signed up -  by the Launch status.  
+Showing basic numbers for all Accounts that have been signed up -  by the Launch status. Av penetration for the partners not yet launched should be zero, suggesting some sample data noise.  
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/pipeline_summary.png">  
 
-### Pipeline breakdown - by Partner location, by the Launch event
+### Pipeline breakdown - by Partner location, by the Launch status
 
 Green/Grey - Accounts Launched vs. All Signed-Up (yet to launch).  
 Showing all CS Reps.  
@@ -33,7 +33,7 @@ Showing all CS Reps.
 ### CS Rep Performance trends - Account Age vs. Penetration
 
 CS Reps are shown in color, with their respective trend lines.  
-Showing only Launched Accounts, with the circle size proportional to the Partner Subscriber Base.
+Showing only Launched Accounts, with the circle size proportional to the Partner Subscriber Base. Rep5 is a clear rockstar among the Customer Success Managers!
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/account_age_vs_penetration_rep_performance.png">
 
 ### Penetration Sources
@@ -43,9 +43,10 @@ Showing 2025 per partner actuals in continuity with 2025 forecast.
 
 
 ### Key metrics: MRPU, Penetration and Revenue
+This timeseries chart let us quickly spot anomalies in MRPU, penetration and revenue numbers, revenue composition and the numbers continuity for actuals (blue) into forecast (orange).  
 
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/mrpu_penetration_revenue.png">
 
 ### Aggregate Penetration - Actuals vs Forecast
-Showing spike in aggregate penetration forecast April on March. We can drill-down on the chart to identify where it comes from and if there is the forecast opportunity driving this vs just a forecasting error.  
+Showing spike in aggregate penetration forecast April on March. We can drill-down with the chart controls to identify where it comes from and if there is a foreseen tangible opportunity behind this vs. just a forecas error.  
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/spike_in_penetration_forecast.png">
