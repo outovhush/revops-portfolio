@@ -21,7 +21,10 @@ __Sign-to-Launch (Months):__ The operational timeline from contract signature to
 
 1. Key Account Overview
 
-2. Geographic Pipeline
+2. Pipeline breakdown by Customer location
+
+Green/Grey - Accounts Launched/Yet to launch
+<img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/Pipeline_breakdown_geo.jpg" width=70% height=70%>
 
 3. Sales & Integration Cycles
 
