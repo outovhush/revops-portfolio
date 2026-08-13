@@ -40,7 +40,7 @@ Showing only launched Accounts.
 
 ### 5. Penetration Sources
 Showing portfolio for Rep5.  
-Showing 2025 partner actuals in continuity into 2025 plan.  
+Showing 2025 per partner actuals in continuity with 2025 forecast.  
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/rep5_penetration_sources.png">
 
 
