@@ -51,5 +51,5 @@ Showing 2025 per partner actuals in continuity with 2025 forecast.
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/mrpu_penetration_revenue.png">
 
 ### Aggregate Penetration - Actuals vs Forecast
-Shqoing a spike in aggregate penetration forecast April on March. Need to dive in to clarify the driving factor vs forecasting error.  
+Showing spike in aggregate penetration forecast April on March. We can drill-down on the chart to identify where it comes from and if there is the forecast opportunity driving this vs just a forecasting error.  
 <img src="https://github.com/outovhush/revops-portfolio/blob/main/spreadsheet_report_refactor/spike_in_penetration_forecast.png">
