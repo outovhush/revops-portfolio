@@ -9,13 +9,12 @@ The reviewed pipeline was created up in 2023 upon the roll-out of the updated GT
 
 ## __Executive Summary__ 
 
-Outbound targeted largest accounts (median account size of 252 vs. Inbound's 65) but suffered low-end winrate (volume winrate 22% is less than Inbound’s 38%, generally conforming to observable market trends). With median account size of 144, Field (conferences) targeted mid-size accounts, remaining limited by the accessible field events’ audiences. Winrates and deal close cycles for Field is on par with Inbound, however Field has bigger uncertainty as fewer datapoints are available. No reliable difference is observed between Won and Lost deal cycles.  
+Inbound channel shows a strong positive correletion between deal amount (AoL) and the account size, Outbound and Field have weak to non-existent correlation. While Outbound and Field can potentially steer us to bigger accounts, the current SQL-to-Opportunity-to-Close motion fails to capture the larger deal values from the larger accounts. We can also observe that winrate declines as account size grows. This indicates the AE team may need to address improving their skills in closing larger accounts.
 
-It’s tempting to explain high Field performance - that is on par with Inbound for winrates and deal cycles - by the combination of the personal touch with the attractive material merchandise items being sold, however Field confidence intervals are on a broader side asking for more data.
+in 2023 Outbound targeted largest accounts (median 252 vs. Inbound's 65 employees) but suffered low-end winrate (22% vs. Inbound’s 38%). Field (conferences) targeted mid-size accounts with median account of 144, and remained limited by the available conference audiences. Winrates and deal close cycles for Field is on par with Inbound.
 
-Inbound shows a strong positive correletion between deal amount and account size, but Outbound and Field have weak to non-existent correlation. While Outbound and Field can steer us to bigger accounts, the current SQL-to-Opportunity-to-Close motion fails to capture the larger deal values from the larger accounts.
+It’s tempting to explain Field performance - its winrates and deal cycles on par with Inbound  - by the combination of the personal contact with the attractive physical items being marketed, however Field numbers are less certain with fewer datapoints available.
 
-We can also observe that regardless of the channel winrate declines for larger account size deals. This indicates the AE team needs to address improving its skills in closing bigger accounts.
 
 ### __Business Recommendations__  
 - Audit Outbound SQL-Opportunity-Closing process to identify the value leaks. Add SQL data to evaluate SQL->Opportunity conversions per channel. Sample and review manually of a cohort of high-size account outbound leads to reveal details of their journey. 
