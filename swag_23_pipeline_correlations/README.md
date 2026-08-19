@@ -13,7 +13,7 @@ Inbound channel shows a strong positive correletion between first deal amount (i
 
 in 2023 Outbound targeted largest accounts (median 252 vs. Inbound's 65 employees) but suffered low-end winrate (22% vs. Inbound’s 38%). Field (conferences) targeted mid-size accounts with median account of 144, and remained limited by the available conference audiences. Winrates and deal close cycles for Field is on par with Inbound.
 
-It’s tempting to explain Field performance - its winrates and deal cycles on par with Inbound  - by the combination of the personal contact with the attractive physical items being marketed, however Field numbers are less certain with fewer datapoints available.
+It’s tempting to explain Field performance - its winrates and deal cycles similar to Inbound's  - by the combination of the personal contact with the attractive physical items being marketed, however Field numbers are less certain with fewer datapoints available.
 
 
 ### __Business Recommendations__  
