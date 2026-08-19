@@ -53,9 +53,9 @@ __Skills:__ Sales KPI's, Descriptive statistics, Data visualization, Analytical 
 
 __[Click here for the Report](AE_adhoc_data_analysis_GR/README.md)__
 
-### Exploring the sales pipeline with insights into channel performance
+### Lead channels performance
 
-__Objective:__  Analyze new customer acquisition to understand channel performance in terms of customer account sizes, effectiveness of value capturing, deal cycles, and revenue conversion (win rates).
+__Objective:__  Analyze customer acquisition channels to understand its performance in terms of customer account sizes, effectiveness of value capturing, deal cycles, and revenue conversion (win rates).
 
 __Skills:__ Data Analysis and Visualization, Statistics, Python/Pandas, Seaborn
 
@@ -89,7 +89,7 @@ __[Refactored: Summary and the Data Story](https://github.com/outovhush/revops-d
 &nbsp;
 ## 👉 Data Quality and Hygiene
 
-### Data quality audit of core company database
+### Data quality audit of the account database
      
 __Objective:__ Provide reliable estimate for the extent of data errors in the customer account database in CRM.
 
