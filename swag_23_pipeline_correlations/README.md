@@ -9,7 +9,7 @@ The reviewed pipeline was created up in 2023 upon the roll-out of the updated GT
 
 ## __Executive Summary__ 
 
-Inbound channel shows a strong positive correletion between deal amount (AoV) and the account size, Outbound and Field have weak to non-existent correlation. While Outbound and Field can potentially steer us to bigger accounts, the current SQL-to-Opportunity-to-Close motion fails to capture the larger deal values from the larger accounts. We can also observe that winrate declines as account size grows. This indicates the AE team may need to address improving their skills in closing larger accounts.
+Inbound channel shows a strong positive correletion between first deal amount (i.e. first order value) and the account size, Outbound and Field have weak to non-existent correlation. While Outbound and Field can potentially steer us to bigger accounts, the current SQL-to-Opportunity-to-Close motion fails to capture the larger deal values from the larger accounts. We can also observe that winrate declines as account size grows. This indicates the AE team may need to address improving their skills in closing larger accounts.
 
 in 2023 Outbound targeted largest accounts (median 252 vs. Inbound's 65 employees) but suffered low-end winrate (22% vs. Inbound’s 38%). Field (conferences) targeted mid-size accounts with median account of 144, and remained limited by the available conference audiences. Winrates and deal close cycles for Field is on par with Inbound.
 
