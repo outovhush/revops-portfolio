@@ -11,10 +11,9 @@ The reviewed pipeline was created up in 2023 upon the roll-out of the updated GT
 
 Inbound channel shows a strong positive correletion between first deal amount (i.e. first order value) and the account size, Outbound and Field have weak to non-existent correlation. While Outbound and Field can potentially steer us to bigger accounts, the current SQL-to-Opportunity-to-Close motion fails to capture the larger deal values from the larger accounts. We can also observe that winrate declines as account size grows. This indicates the AE team may need to address improving their skills in closing larger accounts.
 
-in 2023 Outbound targeted largest accounts (median 252 vs. Inbound's 65 employees) but suffered low-end winrate (22% vs. Inbound’s 38%). Field (conferences) targeted mid-size accounts with median account of 144, and remained limited by the available conference audiences. Winrates and deal close cycles for Field is on par with Inbound.
+Field channel - offline conferences - shows a strong performance similar to Inbound as for Winrates and Deal cycles. It’s tempting to explain this performance by the combination of personal touch with the attractive physical items being sold. However Field numbers are less certain with fewer datapoints available.
 
-It’s tempting to explain Field performance - its winrates and deal cycles similar to Inbound's  - by the combination of the personal contact with the attractive physical items being marketed, however Field numbers are less certain with fewer datapoints available.
-
+in 2023 Outbound channel targeted largest accounts (median 252 vs. Inbound's 65 employees) but suffered low-end winrate (22% vs. Inbound’s 38%). Field targeted mid-size accounts with median account of 144, and remained somewhat limited by the available conference audiences.
 
 ### __Business Recommendations__  
 - Audit Outbound SQL-Opportunity-Closing process to identify the value leaks. Add SQL data to evaluate SQL->Opportunity conversions per channel. Sample and review manually of a cohort of high-size account outbound leads to reveal details of their journey. 

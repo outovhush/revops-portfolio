@@ -53,7 +53,7 @@ __Skills:__ Sales KPI's, Descriptive statistics, Data visualization, Analytical 
 
 __[Click here for the Report](AE_adhoc_data_analysis_GR/README.md)__
 
-### Lead channels performance
+### Lead channel performance
 
 __Objective:__  Analyze customer acquisition channels to understand its performance in terms of customer account sizes, effectiveness of value capturing, deal cycles, and revenue conversion (win rates).
 
@@ -89,7 +89,7 @@ __[Refactored: Summary and the Data Story](https://github.com/outovhush/revops-d
 &nbsp;
 ## 👉 Data Quality and Hygiene
 
-### Data quality audit of the account database
+### Data quality audit of company database
      
 __Objective:__ Provide reliable estimate for the extent of data errors in the customer account database in CRM.
 
@@ -97,7 +97,7 @@ __Skills:__ Statistics, Analytical Thinking, Google Sheets
 
 __[Audit Findings](https://github.com/outovhush/revops-data-portfolio/blob/main/account_db_data_quality_check/README.md)__
 
-### Showing object-linking errors in the CRM database
+### Object-linking errors in the CRM database
 
 __Objective:__ Identify mismatches between accounts and deals, which are critical for correct revenue and deal reporting. Support further manual audit and fixes.
 
